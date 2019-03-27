@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>11/18 </td>
+<td>61.11%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>19/23 </td>
+<td>82.61%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>18/22 </td>
+<td>81.82%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>4/6 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>58/75 </td>
+<td>77.33%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>15</td><td></td><td></td></tr><tr><td>NCS-801</td><td>19</td><td></td><td></td></tr><tr><td>NIT-801</td><td>13</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>SHOBHIT SINGHAL</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>PANKAJ AGRAWAL</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713093</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413038</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-10-11</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 1019</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8941981768</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9412168009</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      SHRI JAGDAMBA BANGLE STORE HOUSE NO . 146   GALI NO. 3, DURGA NAGAR.FIROZABAD. Uttar Pradesh                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          shobhitcoolsinghal@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>93.10</td>
+<th>12th %</th>
+<td>91.40</td>
+<th>B.TECH %</th>
+<td>76.52</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>61.67</td>
+<td>59.17</td>
+<td>51.94</td>
+<td>57.78</td>
+<td>63.9</td>
+<td>78.70</td>
+<td>97.29</td>
+</tr>
+<tr>
+<th>II</th>
+<td>45.83</td>
+<td>45.83</td>
+<td>48.61</td>
+<td>70</td>
+<td>51.4</td>
+<td>74.00</td>
+<td>89.47</td>
+</tr>
+<tr>
+<th>III</th>
+<td>48.33</td>
+<td>32.14</td>
+<td>53.81</td>
+<td>56.43</td>
+<td>53.43</td>
+<td>79.3</td>
+<td>88.45</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>44.29</td>
+<td>39.29</td>
+<td>55.79</td>
+<td></td>
+<td>64.93</td>
+<td>78.8</td>
+<td>87.34</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>61.33</td>
+<td>57.67</td>
+<td>60.33</td>
+<td>74.2</td>
+<td>86.36</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>64</td>
+<td>47</td>
+<td>67.42</td>
+<td>74.1</td>
+<td>81.87</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>60.8</td>
+<td>44.2</td>
+<td>60.3</td>
+<td></td>
+<td>89.88</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>47</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>77.33</td>
+</tr>
+</table>]

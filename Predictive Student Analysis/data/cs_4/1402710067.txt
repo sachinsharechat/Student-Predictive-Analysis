@@ -1,0 +1,17 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>0/0 </td>
+<td>0%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+</table>]

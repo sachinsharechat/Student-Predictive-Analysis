@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>11/16 </td>
+<td>68.75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>14/25 </td>
+<td>56%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>14/22 </td>
+<td>63.64%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>4/12 </td>
+<td>33.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>2/4 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>1/4 </td>
+<td>25%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>46/83 </td>
+<td>55.42%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>A</td><td></td><td></td></tr><tr><td>NCS-085</td><td>A</td><td></td><td></td></tr><tr><td>NCS-801</td><td>A</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ANKIT VERMA</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>BHARAT PRASAD MAURYA</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710021</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410041</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-09-29</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>8849</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8860219616</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9415373789</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      SH 15/74 K-58 NEW ASHOK VIHAR COLONY SUDDHIPUR, SHIVPUR.VARANASI. UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          ankit.verma.logan@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>95</td>
+<th>12th %</th>
+<td>89.60</td>
+<th>B.TECH %</th>
+<td>79.29</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>80.83</td>
+<td>75</td>
+<td>70.56</td>
+<td>53.89</td>
+<td>68.8</td>
+<td>79.20</td>
+<td>97.98</td>
+</tr>
+<tr>
+<th>II</th>
+<td>62.5</td>
+<td>62.5</td>
+<td>57.78</td>
+<td>75.56</td>
+<td>66.9</td>
+<td>83.20</td>
+<td>96.72</td>
+</tr>
+<tr>
+<th>III</th>
+<td>50.71</td>
+<td>49.29</td>
+<td>44.29</td>
+<td>61.43</td>
+<td>55.86</td>
+<td>74.90</td>
+<td>85.05</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>56.43</td>
+<td>47.86</td>
+<td>60.93</td>
+<td></td>
+<td>68.29</td>
+<td>87.30</td>
+<td>89.45</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>49.67</td>
+<td>51.5</td>
+<td>63.08</td>
+<td>75.80</td>
+<td>79.04</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>66.67</td>
+<td>62.5</td>
+<td>77.25</td>
+<td>84</td>
+<td>79.21</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>26</td>
+<td>DB</td>
+<td>69.6</td>
+<td>70.60</td>
+<td>68.52</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>55.42</td>
+</tr>
+</table>]

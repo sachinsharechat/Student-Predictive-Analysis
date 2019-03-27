@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>24/25 </td>
+<td>96%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>22/23 </td>
+<td>95.65%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>20/20 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>22/23 </td>
+<td>95.65%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-406</th>
+<td>20/26 </td>
+<td>76.92%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>16/16 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>158/167 </td>
+<td>94.61%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>9</td><td></td><td></td></tr><tr><td>RCS-401</td><td>17</td><td></td><td></td></tr><tr><td>RCS-402</td><td>15.5</td><td></td><td></td></tr><tr><td>RCS-403</td><td>11</td><td></td><td></td></tr><tr><td>REC-406</td><td>17.5</td><td></td><td></td></tr><tr><td>RVE-401</td><td>14</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Ankur Singh</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Surendra Singh</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602713018</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1613090</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-08-03</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9628997650, 9453033993</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9415854856</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      120-B, Sriramnagar Goangali Tola,  Basharatpur,.Gorakhupur. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          ankursingh31097@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>80</td>
+<th>12th %</th>
+<td>80</td>
+<th>B.TECH %</th>
+<td>77.34</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>32</td>
+<td>36</td>
+<td>42.4</td>
+<td>39.2</td>
+<td>49.57</td>
+<td>77.56</td>
+<td>96.05</td>
+</tr>
+<tr>
+<th>II</th>
+<td>47</td>
+<td>35</td>
+<td>38.8</td>
+<td>42.2</td>
+<td>47.29</td>
+<td>77.11</td>
+<td>88.45</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>38.17</td>
+<td>51.07</td>
+<td></td>
+<td>77.56</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>56</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>94.61</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

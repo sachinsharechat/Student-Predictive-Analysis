@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>17/18 </td>
+<td>94.44%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>14/20 </td>
+<td>70%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>21/25 </td>
+<td>84%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>4/5 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>62/78 </td>
+<td>79.49%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>20</td><td></td><td></td></tr><tr><td>NCS-801</td><td>10</td><td></td><td></td></tr><tr><td>NIT-801</td><td>19</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Arushi Sharma</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Krishna Nand Sharma</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713024</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413087</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-09-29</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9911614333</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9911830100</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      KH -79 Kavi Nagar.Ghaziabad. uttar pradesh                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          knsharma64@yahoo.co.in                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>85.60</td>
+<th>12th %</th>
+<td>83.00</td>
+<th>B.TECH %</th>
+<td>71.88</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>61.67</td>
+<td>68.33</td>
+<td>45.28</td>
+<td>34.44</td>
+<td>42.5</td>
+<td>62.90</td>
+<td>88.67</td>
+</tr>
+<tr>
+<th>II</th>
+<td>58.33</td>
+<td>58.33</td>
+<td>48.06</td>
+<td>65.56</td>
+<td>48.6</td>
+<td>71.50</td>
+<td>88.83</td>
+</tr>
+<tr>
+<th>III</th>
+<td>48.57</td>
+<td>53.57</td>
+<td>52.38</td>
+<td>56.43</td>
+<td>62.21</td>
+<td>76.2</td>
+<td>85.06</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>55</td>
+<td>58.33</td>
+<td>61.86</td>
+<td></td>
+<td>65.64</td>
+<td>73.2</td>
+<td>82.72</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>62.33</td>
+<td>57</td>
+<td>56.92</td>
+<td>76.5</td>
+<td>83.56</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>64</td>
+<td>62</td>
+<td>62.83</td>
+<td>71</td>
+<td>78.75</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>70.4</td>
+<td>50</td>
+<td>64.1</td>
+<td></td>
+<td>83.13</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>49</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>79.49</td>
+</tr>
+</table>]

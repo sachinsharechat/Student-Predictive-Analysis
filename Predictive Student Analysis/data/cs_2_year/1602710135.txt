@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>16/23 </td>
+<td>69.57%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>11/23 </td>
+<td>47.83%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>16/21 </td>
+<td>76.19%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>16/30 </td>
+<td>53.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>4/12 </td>
+<td>33.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>15/21 </td>
+<td>71.43%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>15/20 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>125/184 </td>
+<td>67.93%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>A</td><td></td><td></td></tr><tr><td>RCS-401</td><td>A</td><td></td><td></td></tr><tr><td>RCS-402</td><td>5</td><td></td><td></td></tr><tr><td>RCS-403</td><td>5</td><td></td><td></td></tr><tr><td>REC-405</td><td>A</td><td></td><td></td></tr><tr><td>RVE-401</td><td>A</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Shivam Garg</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Dayanand Kumar Agarwal</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710135</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610150</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-3</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-10-13</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7065327547</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9412470502</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      197-kha, gali  sonkhdauji.Mathura. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          gargshivam482@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>89.3</td>
+<th>12th %</th>
+<td>74</td>
+<th>B.TECH %</th>
+<td>71.81</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>48</td>
+<td>44</td>
+<td>60.8</td>
+<td>16.2</td>
+<td>52.29</td>
+<td>71.44</td>
+<td>67.35</td>
+</tr>
+<tr>
+<th>II</th>
+<td>51</td>
+<td>33</td>
+<td>DB</td>
+<td>30.2</td>
+<td>43</td>
+<td>72.00</td>
+<td>66.38</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>DB</td>
+<td>64.4</td>
+<td>72.00</td>
+<td>70.85</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>6.67</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>67.93</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

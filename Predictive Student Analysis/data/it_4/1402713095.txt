@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>14/18 </td>
+<td>77.78%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>20/23 </td>
+<td>86.96%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>19/22 </td>
+<td>86.36%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>67/79 </td>
+<td>84.81%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>23</td><td></td><td></td></tr><tr><td>NCS-801</td><td>16</td><td></td><td></td></tr><tr><td>NIT-801</td><td>19</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>SHRUTI RUSTAGI</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>M.L.RUSTAGI</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713095</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413021</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-03-28</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 1019</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9654332560</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9811056575</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      QUARTER NO 2   TYPE 3 RAK NATIONAL POSTAL ACADEMY.GHAZIABAD. Uttar Pradesh                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          shrutirustagi2803@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>95.00</td>
+<th>12th %</th>
+<td>89.60</td>
+<th>B.TECH %</th>
+<td>81.02</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>64.17</td>
+<td>73.33</td>
+<td>58.33</td>
+<td>61.67</td>
+<td>70.1</td>
+<td>81.60</td>
+<td>86.49</td>
+</tr>
+<tr>
+<th>II</th>
+<td>59.17</td>
+<td>59.17</td>
+<td>61.39</td>
+<td>62.22</td>
+<td>54.3</td>
+<td>77.30</td>
+<td>87.78</td>
+</tr>
+<tr>
+<th>III</th>
+<td>55.71</td>
+<td>60.71</td>
+<td>64.52</td>
+<td>65.71</td>
+<td>69.5</td>
+<td>83.8</td>
+<td>85.68</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>64.29</td>
+<td>60.71</td>
+<td>62.79</td>
+<td></td>
+<td>67.21</td>
+<td>81</td>
+<td>86.88</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>77.67</td>
+<td>78</td>
+<td>70.75</td>
+<td>81.4</td>
+<td>90.32</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>75.33</td>
+<td>67.83</td>
+<td>68.42</td>
+<td>81</td>
+<td>83.06</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>77.6</td>
+<td>63.2</td>
+<td>70.4</td>
+<td></td>
+<td>84.45</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>58</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>84.81</td>
+</tr>
+</table>]

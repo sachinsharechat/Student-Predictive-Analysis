@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-063</th>
+<td>17/23 </td>
+<td>73.91%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-068</th>
+<td>12/15 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>20/29 </td>
+<td>68.97%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>19/25 </td>
+<td>76%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>19/31 </td>
+<td>61.29%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>6/8 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-654</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>14/16 </td>
+<td>87.5%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>137/181 </td>
+<td>75.69%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-063</td><td>14</td><td></td><td></td></tr><tr><td>NCS-068</td><td>15.5</td><td></td><td></td></tr><tr><td>NCS-601</td><td>13</td><td></td><td></td></tr><tr><td>NCS-602</td><td>14.5</td><td></td><td></td></tr><tr><td>NCS-603</td><td>13</td><td></td><td></td></tr><tr><td>NHU-601</td><td>17</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Arav Malik</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Harendra Malik</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502710039</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1510045</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1998-04-09</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 5983</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9643253558</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9411695091</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      VILL &amp; POST  KASIMPURKHERA BAGHPAT.BAGHPAT. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          aravmalikkheri@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>83.56</td>
+<th>12th %</th>
+<td>81.80</td>
+<th>B.TECH %</th>
+<td>68.22</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>53.33</td>
+<td>32</td>
+<td>31.39</td>
+<td>34.22</td>
+<td>40.33</td>
+<td>65.50</td>
+<td>82.2</td>
+</tr>
+<tr>
+<th>II</th>
+<td>53.33</td>
+<td>46.17</td>
+<td>39.33</td>
+<td></td>
+<td>46.75</td>
+<td>70.90</td>
+<td>92.56</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>21.71</td>
+<td>39.57</td>
+<td>47.43</td>
+<td>72.8</td>
+<td>80.45</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>37.14</td>
+<td>44.57</td>
+<td>46.29</td>
+<td>69.1</td>
+<td>78.2</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>36</td>
+<td>52.83</td>
+<td>40.25</td>
+<td>62.80</td>
+<td>81.4</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>58</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>75.69</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

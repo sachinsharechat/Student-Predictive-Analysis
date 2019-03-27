@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>9/16 </td>
+<td>56.25%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>15/25 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>15/22 </td>
+<td>68.18%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>6/12 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>4/6 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>2/4 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>51/85 </td>
+<td>60%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>A</td><td></td><td></td></tr><tr><td>NCS-085</td><td>A</td><td></td><td></td></tr><tr><td>NCS-801</td><td>A</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>AKHILESH SINGH</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>MOHAN LALA SINGH</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710010</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410034</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-09-05</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>8650</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8750840699</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>96160897233</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      127/19M/2M BHOLA KA PURA  SANIK COLONY.ALLAHABAD. UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          akhi.coolchamp0011@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>83.60</td>
+<th>12th %</th>
+<td>62.00</td>
+<th>B.TECH %</th>
+<td>64.61</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>49.17</td>
+<td>55.83</td>
+<td>43.33</td>
+<td>30</td>
+<td>38.6</td>
+<td>64.70</td>
+<td>87.66</td>
+</tr>
+<tr>
+<th>II</th>
+<td>52.5</td>
+<td>52.5</td>
+<td>24.72</td>
+<td>56.67</td>
+<td>32.9</td>
+<td>60.50</td>
+<td>80.87</td>
+</tr>
+<tr>
+<th>III</th>
+<td>50.71</td>
+<td>47.86</td>
+<td>28.81</td>
+<td>31.19</td>
+<td>41.07</td>
+<td>67.80</td>
+<td>73.19</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>33.57</td>
+<td>17.14</td>
+<td>27.29</td>
+<td></td>
+<td>37.93</td>
+<td>66.00</td>
+<td>75.54</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>24</td>
+<td>38.42</td>
+<td>62.90</td>
+<td>69.48</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>13</td>
+<td>DB</td>
+<td>40.5</td>
+<td>65.5</td>
+<td>64.89</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>11.6</td>
+<td>9.4</td>
+<td>38.9</td>
+<td>64.90</td>
+<td>73.62</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>60</td>
+</tr>
+</table>]

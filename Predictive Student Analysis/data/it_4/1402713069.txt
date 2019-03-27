@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>7/18 </td>
+<td>38.89%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>14/23 </td>
+<td>60.87%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>17/22 </td>
+<td>77.27%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>4/6 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>3/6 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>45/75 </td>
+<td>60%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>A</td><td></td><td></td></tr><tr><td>NCS-801</td><td>0</td><td></td><td></td></tr><tr><td>NIT-801</td><td>00</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>POOJA KUNTAL</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>JAGVIR SINGH</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713069</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413110</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-09-01</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9810195806</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9058004406</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      B-83 MOTIKUNJ EXTENSION SAYYED WALI GALI NEAR GOVERDHAN PALACE.MATHURA. Uttar Pradesh                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          kuntalpooja2@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>95</td>
+<th>12th %</th>
+<td>95</td>
+<th>B.TECH %</th>
+<td>80.58</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>62.5</td>
+<td>72.5</td>
+<td>43.61</td>
+<td>59.72</td>
+<td>66.8</td>
+<td>81.60</td>
+<td>84.48</td>
+</tr>
+<tr>
+<th>II</th>
+<td>46.67</td>
+<td>46.67</td>
+<td>60.56</td>
+<td>22.22</td>
+<td>60.4</td>
+<td>79.20</td>
+<td>67.31</td>
+</tr>
+<tr>
+<th>III</th>
+<td>66.43</td>
+<td>37.86</td>
+<td>65.48</td>
+<td>65</td>
+<td>79.5</td>
+<td>88.1</td>
+<td>72.98</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>27.86</td>
+<td>60</td>
+<td>PC</td>
+<td></td>
+<td>76.21</td>
+<td>86.1</td>
+<td>78.16</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>29.33</td>
+<td>46.33</td>
+<td>59.33</td>
+<td>74.5</td>
+<td>66.14</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>PC</td>
+<td>71</td>
+<td>74</td>
+<td>66.21</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>86</td>
+<td>32</td>
+<td>79.6</td>
+<td></td>
+<td>75.77</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>60</td>
+</tr>
+</table>]

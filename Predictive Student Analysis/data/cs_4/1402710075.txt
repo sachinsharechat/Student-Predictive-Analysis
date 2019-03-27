@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>17/25 </td>
+<td>68%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>12/22 </td>
+<td>54.55%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>17/22 </td>
+<td>77.27%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>4/12 </td>
+<td>33.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>5/6 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>4/8 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>59/95 </td>
+<td>62.11%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>4</td><td></td><td></td></tr><tr><td>NCS-085</td><td>A</td><td></td><td></td></tr><tr><td>NCS-801</td><td>5.5</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>KARTIK CHAUHAN</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>MADAN KUMAR CHAUHAN</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710075</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410149</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-07-23</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9910527463</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9871282725</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      HOUSE NO. 8/B, STREET NO. 21/A, . MOLARBAND EXTN BADARPUR.NEW DELHI. DELHI                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          chauhan.kartik25@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>85.50</td>
+<th>12th %</th>
+<td>86.20</td>
+<th>B.TECH %</th>
+<td>66.20</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>57.5</td>
+<td>60.83</td>
+<td>42.5</td>
+<td>42.78</td>
+<td>46.4</td>
+<td>72.80</td>
+<td>92.27</td>
+</tr>
+<tr>
+<th>II</th>
+<td>44.67</td>
+<td>44.67</td>
+<td>29.44</td>
+<td>62.22</td>
+<td>39.8</td>
+<td>66.20</td>
+<td>81.39</td>
+</tr>
+<tr>
+<th>III</th>
+<td>32.5</td>
+<td>22.5</td>
+<td>26.67</td>
+<td>21.67</td>
+<td>34</td>
+<td>67.50</td>
+<td>73.82</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>20.71</td>
+<td>22.14</td>
+<td>PC</td>
+<td></td>
+<td>25.93</td>
+<td>59.60</td>
+<td>71</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>19</td>
+<td>DB</td>
+<td>34.42</td>
+<td>63.10</td>
+<td>67.71</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>43.33</td>
+<td>21.5</td>
+<td>42.33</td>
+<td>66.7</td>
+<td>70.83</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>49.6</td>
+<td>36.6</td>
+<td>26.1</td>
+<td>67.50</td>
+<td>76.66</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>9.5</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>62.11</td>
+</tr>
+</table>]

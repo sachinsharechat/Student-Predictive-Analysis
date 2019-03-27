@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-063</th>
+<td>27/29 </td>
+<td>93.1%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-068</th>
+<td>13/14 </td>
+<td>92.86%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>16/23 </td>
+<td>69.57%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>11/17 </td>
+<td>64.71%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>22/29 </td>
+<td>75.86%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-654</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>18/18 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>149/176 </td>
+<td>84.66%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-063</td><td>1</td><td></td><td></td></tr><tr><td>NCS-068</td><td>10</td><td></td><td></td></tr><tr><td>NCS-601</td><td>9</td><td></td><td></td></tr><tr><td>NCS-602</td><td>11</td><td></td><td></td></tr><tr><td>NCS-603</td><td>8</td><td></td><td></td></tr><tr><td>NHU-601</td><td>17</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>KARUN RAJ SINGH</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>KASHI RAM</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502710071</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1510034</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-10-22</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 2959</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9818024570</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9818952427</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      E-1042 GAUR GREEN CITY INDIRAPURAM.GHAZIABAD. UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          krsraj22@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>81.70</td>
+<th>12th %</th>
+<td>78.20</td>
+<th>B.TECH %</th>
+<td>61.74</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>55</td>
+<td>60</td>
+<td>36.11</td>
+<td>26.28</td>
+<td>25.08</td>
+<td>60.60</td>
+<td>90.85</td>
+</tr>
+<tr>
+<th>II</th>
+<td>38.33</td>
+<td>46.67</td>
+<td>23</td>
+<td></td>
+<td>24.42</td>
+<td>56.80</td>
+<td>85.29</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>33.71</td>
+<td>23.86</td>
+<td>26.57</td>
+<td>62</td>
+<td>82.54</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>21.71</td>
+<td>35.71</td>
+<td>36.86</td>
+<td>64.3</td>
+<td>77.69</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>33.33</td>
+<td>32.17</td>
+<td>24.5</td>
+<td>65.00</td>
+<td>76.67</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>37.33</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>84.66</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>11/18 </td>
+<td>61.11%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>16/20 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>23/25 </td>
+<td>92%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>4/5 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>62/78 </td>
+<td>79.49%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>A</td><td></td><td></td></tr><tr><td>NCS-801</td><td>3</td><td></td><td></td></tr><tr><td>NIT-801</td><td>7</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Harshank Bansal</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Atul Bansal</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713041</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413075</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-05-23</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 5307</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9990342764,7053617538</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9808751221,9760515480</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      21, Jamuna Dham Colony Goverdhan road Mathura.Mathura. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          harshankbansal@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>71.80</td>
+<th>12th %</th>
+<td>88.80</td>
+<th>B.TECH %</th>
+<td>64.77</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>56.67</td>
+<td>46.67</td>
+<td>45.83</td>
+<td>43.61</td>
+<td>45.8</td>
+<td>68.50</td>
+<td>87.26</td>
+</tr>
+<tr>
+<th>II</th>
+<td>31.67</td>
+<td>31.67</td>
+<td>34.17</td>
+<td>46.67</td>
+<td>32.7</td>
+<td>64.90</td>
+<td>73.7</td>
+</tr>
+<tr>
+<th>III</th>
+<td>31.67</td>
+<td>32.5</td>
+<td>21.43</td>
+<td>26.9</td>
+<td>40.29</td>
+<td>67.5</td>
+<td>71.24</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>25.71</td>
+<td>24.17</td>
+<td>30.64</td>
+<td></td>
+<td>24.71</td>
+<td>60.4</td>
+<td>71.57</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>39.33</td>
+<td>23.67</td>
+<td>28</td>
+<td>64</td>
+<td>71.95</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>12</td>
+<td>32.25</td>
+<td>63.3</td>
+<td>71.93</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>11.6</td>
+<td>DB</td>
+<td>23.9</td>
+<td></td>
+<td>70.99</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>79.49</td>
+</tr>
+</table>]

@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-063</th>
+<td>23/29 </td>
+<td>79.31%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-068</th>
+<td>12/14 </td>
+<td>85.71%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>15/23 </td>
+<td>65.22%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>12/17 </td>
+<td>70.59%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>20/29 </td>
+<td>68.97%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-654</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>12/18 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>132/176 </td>
+<td>75%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-063</td><td>10</td><td></td><td></td></tr><tr><td>NCS-068</td><td>10.5</td><td></td><td></td></tr><tr><td>NCS-601</td><td>6</td><td></td><td></td></tr><tr><td>NCS-602</td><td>14</td><td></td><td></td></tr><tr><td>NCS-603</td><td>7</td><td></td><td></td></tr><tr><td>NHU-601</td><td>11</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>MAYANK KUMAR</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SURENDER KUMAR</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502710085</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1510005</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-10-18</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE12047</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8791814808</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9910487807</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      H.NO-200,MOHALLA MATHMAN NEAR GOPI SWEETS PILKHUWA.GHAZIABAD. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          mayankkumar680@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>60.10</td>
+<th>12th %</th>
+<td>64.40</td>
+<th>B.TECH %</th>
+<td>12.40</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>45.83</td>
+<td>53.33</td>
+<td>30.83</td>
+<td>33.5</td>
+<td>35.08</td>
+<td>0.00</td>
+<td>83.29</td>
+</tr>
+<tr>
+<th>II</th>
+<td>48.33</td>
+<td>43.17</td>
+<td>18</td>
+<td></td>
+<td>24.75</td>
+<td>0.00</td>
+<td>87.03</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>24.57</td>
+<td>31.71</td>
+<td>42.36</td>
+<td>0</td>
+<td>80.27</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>33.71</td>
+<td>41.14</td>
+<td>34.36</td>
+<td>0</td>
+<td>73</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>8.5</td>
+<td>19.75</td>
+<td>62.00</td>
+<td>71.88</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>39</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>75</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>14/18 </td>
+<td>77.78%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>17/20 </td>
+<td>85%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>23/25 </td>
+<td>92%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>5/5 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>65/78 </td>
+<td>83.33%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>9</td><td></td><td></td></tr><tr><td>NCS-801</td><td>3</td><td></td><td></td></tr><tr><td>NIT-801</td><td>2</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>NIKHIL GIRI</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SUKARAM PAL GIRI</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713064</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413023</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1994-02-26</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>14223</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8505802002</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>8800354820,9654280048</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      Flat-1, 11/151, SECTOR-3 RAJENDER NAGAR SAHIBABAD.GHAZIABAD. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          nikhil.giri100@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>87.40</td>
+<th>12th %</th>
+<td>80.00</td>
+<th>B.TECH %</th>
+<td>64.22</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>48.33</td>
+<td>45</td>
+<td>36.67</td>
+<td>17.78</td>
+<td>48.4</td>
+<td>71.60</td>
+<td>88.22</td>
+</tr>
+<tr>
+<th>II</th>
+<td>46.67</td>
+<td>46.67</td>
+<td>28.61</td>
+<td>56.11</td>
+<td>28.1</td>
+<td>64.10</td>
+<td>86.85</td>
+</tr>
+<tr>
+<th>III</th>
+<td>39</td>
+<td>39.17</td>
+<td>13.1</td>
+<td>20.24</td>
+<td>33.14</td>
+<td>62</td>
+<td>74.51</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>11.43</td>
+<td>41.67</td>
+<td>DB</td>
+<td></td>
+<td>23.29</td>
+<td>58.7</td>
+<td>65.59</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>33.33</td>
+<td>1.33</td>
+<td>26.25</td>
+<td>64.2</td>
+<td>76.7</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+<td>3.33</td>
+<td>11.75</td>
+<td>64.7</td>
+<td>71.66</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>17.2</td>
+<td>2.8</td>
+<td>7.8</td>
+<td></td>
+<td>79.94</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>83.33</td>
+</tr>
+</table>]

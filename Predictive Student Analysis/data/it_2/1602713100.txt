@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>22/23 </td>
+<td>95.65%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>20/22 </td>
+<td>90.91%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>19/19 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>24/24 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-406</th>
+<td>22/23 </td>
+<td>95.65%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>19/19 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>160/164 </td>
+<td>97.56%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>19</td><td></td><td></td></tr><tr><td>RCS-401</td><td>23</td><td></td><td></td></tr><tr><td>RCS-402</td><td>17</td><td></td><td></td></tr><tr><td>RCS-403</td><td>23</td><td></td><td></td></tr><tr><td>REC-406</td><td>24.5</td><td></td><td></td></tr><tr><td>RVE-401</td><td>23</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Shreya Singh</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Satyendra Kumar Singh</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602713100</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1613002</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-11-03</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9911213670</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9415818392</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      B20/47  AG VijayNagar Colony,Ext. Bhelupur.Varanasi. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          shreyasingh7491@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>83.6</td>
+<th>12th %</th>
+<td>85</td>
+<th>B.TECH %</th>
+<td>85.56</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>80</td>
+<td>66</td>
+<td>71.2</td>
+<td>56.8</td>
+<td>69.14</td>
+<td>84.67</td>
+<td>98.52</td>
+</tr>
+<tr>
+<th>II</th>
+<td>67</td>
+<td>65</td>
+<td>74.4</td>
+<td>63.8</td>
+<td>67.71</td>
+<td>86.44</td>
+<td>100</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>70.33</td>
+<td>67.33</td>
+<td>75</td>
+<td></td>
+<td>98.69</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>86.33</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>97.56</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

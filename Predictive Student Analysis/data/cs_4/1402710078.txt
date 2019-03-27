@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>24/25 </td>
+<td>96%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>14/22 </td>
+<td>63.64%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>16/22 </td>
+<td>72.73%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>4/12 </td>
+<td>33.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>6/8 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>70/95 </td>
+<td>73.68%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>7</td><td></td><td></td></tr><tr><td>NCS-085</td><td>A</td><td></td><td></td></tr><tr><td>NCS-801</td><td>13.5</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>KULSOOM  ABIDI</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SMQ ABIDI</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710078</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410151</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-02-05</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7838602758</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9918162115</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      295/385 FLAT NO. 2  DEENDAYAL ROAD  ASHARFABAD .LUCKNOW. UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          KULSOOM.HOTASHELL5@GMAIL.COM                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>85.50</td>
+<th>12th %</th>
+<td>90.50</td>
+<th>B.TECH %</th>
+<td>70.74</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>49.17</td>
+<td>52.5</td>
+<td>38.61</td>
+<td>35</td>
+<td>47.9</td>
+<td>73.00</td>
+<td>89.27</td>
+</tr>
+<tr>
+<th>II</th>
+<td>38.83</td>
+<td>38.83</td>
+<td>32.22</td>
+<td>71.11</td>
+<td>42.1</td>
+<td>68.90</td>
+<td>87.5</td>
+</tr>
+<tr>
+<th>III</th>
+<td>52.14</td>
+<td>23.33</td>
+<td>35</td>
+<td>30.71</td>
+<td>44.5</td>
+<td>65.70</td>
+<td>80.04</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>22.14</td>
+<td>30</td>
+<td>PC</td>
+<td></td>
+<td>51.71</td>
+<td>70.60</td>
+<td>77.25</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+<td>37.67</td>
+<td>54</td>
+<td>72.50</td>
+<td>74.44</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>53</td>
+<td>31.83</td>
+<td>65.75</td>
+<td>74.7</td>
+<td>76.11</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>59.4</td>
+<td>70.6</td>
+<td>69.80</td>
+<td>81.39</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>20.5</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>73.68</td>
+</tr>
+</table>]

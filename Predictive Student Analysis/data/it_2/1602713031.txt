@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>22/25 </td>
+<td>88%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>20/23 </td>
+<td>86.96%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>17/20 </td>
+<td>85%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>20/23 </td>
+<td>86.96%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-406</th>
+<td>24/26 </td>
+<td>92.31%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>15/16 </td>
+<td>93.75%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>152/167 </td>
+<td>91.02%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>14</td><td></td><td></td></tr><tr><td>RCS-401</td><td>23</td><td></td><td></td></tr><tr><td>RCS-402</td><td>18.5</td><td></td><td></td></tr><tr><td>RCS-403</td><td>5</td><td></td><td></td></tr><tr><td>REC-406</td><td>15.5</td><td></td><td></td></tr><tr><td>RVE-401</td><td>11</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Bharti Jaiswal</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Shiv Shankar Jaiswal</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602713031</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1613045</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-10-02</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8174068080</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9918760364</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      539/15 k  Sanjay Gandhi Puram Lekhraj Market,Indira Nagar.Lucknow .  UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          bhartijaiswal50@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>87</td>
+<th>12th %</th>
+<td>79.40</td>
+<th>B.TECH %</th>
+<td>82.00</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>43</td>
+<td>53</td>
+<td>53.2</td>
+<td>53.8</td>
+<td>56</td>
+<td>81.89</td>
+<td>97.74</td>
+</tr>
+<tr>
+<th>II</th>
+<td>47</td>
+<td>45</td>
+<td>62</td>
+<td>38.6</td>
+<td>52.29</td>
+<td>82.11</td>
+<td>93.24</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>54</td>
+<td>56</td>
+<td>62.5</td>
+<td></td>
+<td>83.88</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>58</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>91.02</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

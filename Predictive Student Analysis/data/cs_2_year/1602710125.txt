@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>21/29 </td>
+<td>72.41%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>22/28 </td>
+<td>78.57%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>18/21 </td>
+<td>85.71%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>18/27 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>20/26 </td>
+<td>76.92%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>13/21 </td>
+<td>61.9%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>144/192 </td>
+<td>75%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>22</td><td></td><td></td></tr><tr><td>RCS-401</td><td>15.5</td><td></td><td></td></tr><tr><td>RCS-402</td><td>17</td><td></td><td></td></tr><tr><td>RCS-403</td><td>10</td><td></td><td></td></tr><tr><td>REC-405</td><td>16.5</td><td></td><td></td></tr><tr><td>RVE-401</td><td>3.5</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Sarvagya Jalota</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Anoop Jalota</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710125</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610025</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1999-01-01</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE4716</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9568299411</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9456879900</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      Flat no. - 03,  17/01 ,  chilli int road, .Agra. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          sarvagya.jalota@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>89.30</td>
+<th>12th %</th>
+<td>92.40</td>
+<th>B.TECH %</th>
+<td>83.35</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>45</td>
+<td>84</td>
+<td>78</td>
+<td>76.4</td>
+<td>81.86</td>
+<td>88.11</td>
+<td>97.6</td>
+</tr>
+<tr>
+<th>II</th>
+<td>75</td>
+<td>66</td>
+<td>72.8</td>
+<td>68</td>
+<td>73.29</td>
+<td>85.33</td>
+<td>91.14</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>70.67</td>
+<td>61</td>
+<td>66.55</td>
+<td>76.60</td>
+<td>80.73</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>56.33</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>75</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

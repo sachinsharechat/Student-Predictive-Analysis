@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>19/25 </td>
+<td>76%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>19/22 </td>
+<td>86.36%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>18/22 </td>
+<td>81.82%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>4/4 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>76/93 </td>
+<td>81.72%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>9.5</td><td></td><td></td></tr><tr><td>NCS-085</td><td>15.5</td><td></td><td></td></tr><tr><td>NCS-801</td><td>3</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>KRITTIKA KHANWALKAR</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>GAJANAN KHANWALKAR</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710077</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410018</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-06-29</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE10859</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7065210629</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9450068209</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      17 PANCHKUIYAN .JHANSI. UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          krittikakhanwalkar@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>92.14</td>
+<th>12th %</th>
+<td>87.60</td>
+<th>B.TECH %</th>
+<td>78.91</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>77.5</td>
+<td>80.83</td>
+<td>72.78</td>
+<td>68.61</td>
+<td>75.7</td>
+<td>87.90</td>
+<td>96.86</td>
+</tr>
+<tr>
+<th>II</th>
+<td>69.67</td>
+<td>69.67</td>
+<td>69.72</td>
+<td>70</td>
+<td>65.7</td>
+<td>83.70</td>
+<td>91.67</td>
+</tr>
+<tr>
+<th>III</th>
+<td>62.14</td>
+<td>59.17</td>
+<td>63.33</td>
+<td>50.71</td>
+<td>67.5</td>
+<td>80.10</td>
+<td>85.62</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>25</td>
+<td>35.71</td>
+<td>38.86</td>
+<td></td>
+<td>48.21</td>
+<td>78.20</td>
+<td>84.62</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>48</td>
+<td>30.33</td>
+<td>49.08</td>
+<td>77.20</td>
+<td>79.82</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>50.67</td>
+<td>32.67</td>
+<td>54</td>
+<td>71</td>
+<td>79.44</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>52</td>
+<td>41.2</td>
+<td>42.5</td>
+<td>74.30</td>
+<td>82.22</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>28</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>81.72</td>
+</tr>
+</table>]

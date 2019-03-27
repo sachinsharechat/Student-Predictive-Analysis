@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>25/29 </td>
+<td>86.21%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>26/29 </td>
+<td>89.66%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>20/23 </td>
+<td>86.96%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>17/20 </td>
+<td>85%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>18/22 </td>
+<td>81.82%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>23/25 </td>
+<td>92%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>171/194 </td>
+<td>88.14%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>24</td><td></td><td></td></tr><tr><td>RCS-401</td><td>21</td><td></td><td></td></tr><tr><td>RCS-402</td><td>16.5</td><td></td><td></td></tr><tr><td>RCS-403</td><td>22</td><td></td><td></td></tr><tr><td>REC-405</td><td>22</td><td></td><td></td></tr><tr><td>RVE-401</td><td>17.5</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Abhinav  Mishra</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Ramakant Mishra</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710004</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610013</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1999-07-29</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9718135204</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9415796662</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      C-2/157,  Sector F Jankipuram.Lucknow. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          manu.mishra2907@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>97.2</td>
+<th>12th %</th>
+<td>97.25</td>
+<th>B.TECH %</th>
+<td>82.19</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>87</td>
+<td>85</td>
+<td>79.6</td>
+<td>69</td>
+<td>79.86</td>
+<td>86.00</td>
+<td>96.67</td>
+</tr>
+<tr>
+<th>II</th>
+<td>58.8</td>
+<td>77</td>
+<td>72.8</td>
+<td>63.2</td>
+<td>66.14</td>
+<td>81.78</td>
+<td>96.32</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>79</td>
+<td>65.5</td>
+<td>73.81</td>
+<td>78.8</td>
+<td>93.58</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>82</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>88.14</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

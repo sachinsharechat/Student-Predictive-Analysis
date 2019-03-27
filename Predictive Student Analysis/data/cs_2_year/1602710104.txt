@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>25/29 </td>
+<td>86.21%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>23/28 </td>
+<td>82.14%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>17/21 </td>
+<td>80.95%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>21/27 </td>
+<td>77.78%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>21/26 </td>
+<td>80.77%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>15/21 </td>
+<td>71.43%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>158/192 </td>
+<td>82.29%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>18</td><td></td><td></td></tr><tr><td>RCS-401</td><td>16</td><td></td><td></td></tr><tr><td>RCS-402</td><td>20</td><td></td><td></td></tr><tr><td>RCS-403</td><td>20</td><td></td><td></td></tr><tr><td>REC-405</td><td>18.5</td><td></td><td></td></tr><tr><td>RVE-401</td><td>17.5</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Pulkit Gupta</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>K.K Gupta</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710104</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610082</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-05-13</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE-5594</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9560104405</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9557884149</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      "HNO.71, chaman vihar colony, khurja(B.S.R) ".Bulandshahr. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          pulkit13gupta@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>95.01</td>
+<th>12th %</th>
+<td>92.40</td>
+<th>B.TECH %</th>
+<td>84.91</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>42</td>
+<td>86</td>
+<td>28.08</td>
+<td>78.8</td>
+<td>82.86</td>
+<td>84.11</td>
+<td>83.53</td>
+</tr>
+<tr>
+<th>II</th>
+<td>81</td>
+<td>78</td>
+<td>68</td>
+<td>73.6</td>
+<td>77.29</td>
+<td>88.33</td>
+<td>95.84</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>47</td>
+<td>56</td>
+<td>64.64</td>
+<td>82.30</td>
+<td>81.16</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>73.33</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>82.29</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

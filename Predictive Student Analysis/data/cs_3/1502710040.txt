@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-063</th>
+<td>19/23 </td>
+<td>82.61%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-068</th>
+<td>13/15 </td>
+<td>86.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>24/29 </td>
+<td>82.76%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>20/25 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>25/31 </td>
+<td>80.65%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-654</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>15/16 </td>
+<td>93.75%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>154/181 </td>
+<td>85.08%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-063</td><td>5.5</td><td></td><td></td></tr><tr><td>NCS-068</td><td>16</td><td></td><td></td></tr><tr><td>NCS-601</td><td>10</td><td></td><td></td></tr><tr><td>NCS-602</td><td>16</td><td></td><td></td></tr><tr><td>NCS-603</td><td>13</td><td></td><td></td></tr><tr><td>NHU-601</td><td>17</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ARCHIT AGGARWAL</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>R K AGGARWAL</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502710040</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1510129</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-10-13</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9818159519</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9910314897</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      III A 15  D NEHRU NAGAR.GHAZIABAD. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          agarwalarchit12@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>91.20</td>
+<th>12th %</th>
+<td>80.40</td>
+<th>B.TECH %</th>
+<td>67.28</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>55.83</td>
+<td>58.33</td>
+<td>41.39</td>
+<td>29.39</td>
+<td>39.83</td>
+<td>60.30</td>
+<td>87.44</td>
+</tr>
+<tr>
+<th>II</th>
+<td>28.33</td>
+<td>29.67</td>
+<td>26.83</td>
+<td></td>
+<td>26.5</td>
+<td>60.60</td>
+<td>77.67</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>40.86</td>
+<td>38.86</td>
+<td>43.36</td>
+<td>70.8</td>
+<td>82.7</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>32.29</td>
+<td>45.71</td>
+<td>47.57</td>
+<td>69.6</td>
+<td>73.84</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>43</td>
+<td>38</td>
+<td>44.17</td>
+<td>75.10</td>
+<td>82.24</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>51.67</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>85.08</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

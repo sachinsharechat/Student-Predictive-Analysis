@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>12/18 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>12/20 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>17/25 </td>
+<td>68%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>2/5 </td>
+<td>40%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>53/78 </td>
+<td>67.95%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>13</td><td></td><td></td></tr><tr><td>NCS-801</td><td>A</td><td></td><td></td></tr><tr><td>NIT-801</td><td>A</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>DISHA TRIPATHI</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>ANIL KUMAR TRIPATHI</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713038</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413043</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-01-08</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>GNOP 9658</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9454989324,9958472607</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9415518556</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      4/7 VIKAS NAGAR LUCKNOW.LUCKNOW. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          dishatripathi81@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>88.85</td>
+<th>12th %</th>
+<td>83.60</td>
+<th>B.TECH %</th>
+<td>65.15</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>52.5</td>
+<td>47.5</td>
+<td>53.89</td>
+<td>47.5</td>
+<td>56.5</td>
+<td>71.80</td>
+<td>89.66</td>
+</tr>
+<tr>
+<th>II</th>
+<td>33.33</td>
+<td>33.33</td>
+<td>33.33</td>
+<td>55.56</td>
+<td>32.9</td>
+<td>61.20</td>
+<td>82.47</td>
+</tr>
+<tr>
+<th>III</th>
+<td>20.71</td>
+<td>38.33</td>
+<td>21.43</td>
+<td>27.14</td>
+<td>42.43</td>
+<td>65.4</td>
+<td>74.51</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>35</td>
+<td>37.5</td>
+<td>22.29</td>
+<td></td>
+<td>29.29</td>
+<td>63</td>
+<td>74.49</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>29.67</td>
+<td>14.5</td>
+<td>31.25</td>
+<td>62.9</td>
+<td>72.85</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>27.33</td>
+<td>54.58</td>
+<td>66.6</td>
+<td>72.21</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>58.4</td>
+<td>25</td>
+<td>43</td>
+<td></td>
+<td>68.21</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>67.95</td>
+</tr>
+</table>]

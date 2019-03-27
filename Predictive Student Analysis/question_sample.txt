@@ -1,0 +1,46 @@
+CSE
+	Mtech in Security and Forensic
+	Mtech in Image Processing
+	Startup
+	Mtech in Data Analytics
+	Mtech in Artificial Intelligence
+	MS
+	JOB in Software Industry
+	MBA
+	Govt. Job and PSU
+
+ECE
+	Mtech in Electronics Circuit Design
+	Mtech in Signal processing
+	Mtech in Robotics
+	Mtech in Embedded Systems
+	MS
+	JOB in Software Industry
+	Govt. Job and PSU
+	MBA
+	Startup
+ME
+	Mtech in Design engineering
+	Govt. Job and PSU
+	Mtech in fluidics/ Hydraulics
+	Mtech in Manufacturing engineering
+	MBA
+	JOB in Mechanical Industry
+	Startup	
+	MS
+	JOB in Software Industry
+
+IT
+	MS
+	JOB in Software Industry
+	Startup
+	Mtech in Data Analytics
+	Mtech in Artificial Intelligence
+	Mtech in Security and Forensic
+	Mtech in Image Processing
+	MBA
+	Govt. Job and PSU
+	
+
+
+

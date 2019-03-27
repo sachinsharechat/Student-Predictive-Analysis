@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>11/23 </td>
+<td>47.83%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>18/23 </td>
+<td>78.26%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>16/21 </td>
+<td>76.19%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>22/30 </td>
+<td>73.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>19/21 </td>
+<td>90.48%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>16/20 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>136/184 </td>
+<td>73.91%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>7</td><td></td><td></td></tr><tr><td>RCS-401</td><td>17</td><td></td><td></td></tr><tr><td>RCS-402</td><td>5</td><td></td><td></td></tr><tr><td>RCS-403</td><td>10</td><td></td><td></td></tr><tr><td>REC-405</td><td>02</td><td></td><td></td></tr><tr><td>RVE-401</td><td>8</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Shresth Jauhari</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Jagdeep Kumar</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710145</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610004</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-3</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1999-02-01</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>upsee</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9891268452</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9411933106</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      41,court road civil lines rampur.rampur. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          shresth1998deep@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>95</td>
+<th>12th %</th>
+<td>90.8</td>
+<th>B.TECH %</th>
+<td>76.86</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>68</td>
+<td>57</td>
+<td>71.6</td>
+<td>65.2</td>
+<td>59.57</td>
+<td>81.56</td>
+<td>90.29</td>
+</tr>
+<tr>
+<th>II</th>
+<td>55</td>
+<td>57</td>
+<td>48.4</td>
+<td>38.8</td>
+<td>58</td>
+<td>76.33</td>
+<td>74.07</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>46.33</td>
+<td>DB</td>
+<td>53.45</td>
+<td>72.70</td>
+<td>76.17</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>32.67</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>73.91</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

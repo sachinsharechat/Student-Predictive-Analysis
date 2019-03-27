@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>23/29 </td>
+<td>79.31%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>25/29 </td>
+<td>86.21%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>18/23 </td>
+<td>78.26%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>15/20 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>19/22 </td>
+<td>86.36%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>21/25 </td>
+<td>84%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>159/194 </td>
+<td>81.96%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>22</td><td></td><td></td></tr><tr><td>RCS-401</td><td>18.5</td><td></td><td></td></tr><tr><td>RCS-402</td><td>17.5</td><td></td><td></td></tr><tr><td>RCS-403</td><td>20</td><td></td><td></td></tr><tr><td>REC-405</td><td>18</td><td></td><td></td></tr><tr><td>RVE-401</td><td>16</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Aditya Baranwal</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Rajendra K. Barawal</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710007</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610117</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-07-22</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9891260059</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9415370792</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      H. No.-10,  Baranwal Nikunj  Belisa.Azamgarh. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          aditya.baranwal.07@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>87</td>
+<th>12th %</th>
+<td>89</td>
+<th>B.TECH %</th>
+<td>88.91</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>73</td>
+<td>72</td>
+<td>77.6</td>
+<td>70.2</td>
+<td>66.86</td>
+<td>88.11</td>
+<td>96.36</td>
+</tr>
+<tr>
+<th>II</th>
+<td>69.8</td>
+<td>75</td>
+<td>77.6</td>
+<td>68.6</td>
+<td>68.43</td>
+<td>93.11</td>
+<td>90.08</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>72.67</td>
+<td>66.33</td>
+<td>77.26</td>
+<td>85.5</td>
+<td>89.29</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>74.67</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>81.96</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

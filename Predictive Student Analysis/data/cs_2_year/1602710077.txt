@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>19/29 </td>
+<td>65.52%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>19/28 </td>
+<td>67.86%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>15/21 </td>
+<td>71.43%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>21/27 </td>
+<td>77.78%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>19/26 </td>
+<td>73.08%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>21/21 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>152/194 </td>
+<td>78.35%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>A</td><td></td><td></td></tr><tr><td>RCS-401</td><td>11.5</td><td></td><td></td></tr><tr><td>RCS-402</td><td>2</td><td></td><td></td></tr><tr><td>RCS-403</td><td>8</td><td></td><td></td></tr><tr><td>REC-405</td><td>3</td><td></td><td></td></tr><tr><td>RVE-401</td><td>2.5</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Namit Laxman</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Khajan Singh</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710077</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610055</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1998-02-20</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE-</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8882885781</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9917122262</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      233/21, Near suhag nagar tel. exchange, bhim nagar,.Firozabad. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          namitlaxman@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>89.40</td>
+<th>12th %</th>
+<td>64.40</td>
+<th>B.TECH %</th>
+<td>59.75</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>39</td>
+<td>67</td>
+<td>24.08</td>
+<td>28.2</td>
+<td>34.71</td>
+<td>59.67</td>
+<td>85.55</td>
+</tr>
+<tr>
+<th>II</th>
+<td>47</td>
+<td>35</td>
+<td>21.2</td>
+<td>0</td>
+<td>6.14</td>
+<td>52.89</td>
+<td>74.16</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>25.33</td>
+<td>36.31</td>
+<td>66.70</td>
+<td>74.63</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>78.35</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>17/18 </td>
+<td>94.44%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>16/20 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>23/25 </td>
+<td>92%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>4/5 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>66/78 </td>
+<td>84.62%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>16</td><td></td><td></td></tr><tr><td>NCS-801</td><td>13</td><td></td><td></td></tr><tr><td>NIT-801</td><td>13</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>MANISHA AGARWAL</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>GIRISH KUMAR AGRAWAL</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713053</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413020</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-01-11</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE-9429</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>08795653547,7839259530</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>09839052057</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      41A/16B/1  TILAK NAGAR ALLAHAPUR ALLAHABAD.ALLAHABAD. UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          amanisha1195@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>96.00</td>
+<th>12th %</th>
+<td>93.60</td>
+<th>B.TECH %</th>
+<td>86.30</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>76.67</td>
+<td>85</td>
+<td>74.17</td>
+<td>70</td>
+<td>81.5</td>
+<td>88.00</td>
+<td>98.56</td>
+</tr>
+<tr>
+<th>II</th>
+<td>61.67</td>
+<td>61.67</td>
+<td>79.44</td>
+<td>63.33</td>
+<td>69.4</td>
+<td>86.30</td>
+<td>87.95</td>
+</tr>
+<tr>
+<th>III</th>
+<td>55</td>
+<td>58.57</td>
+<td>66.67</td>
+<td>63.33</td>
+<td>71.79</td>
+<td>83.9</td>
+<td>85.19</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>60</td>
+<td>50.83</td>
+<td>80.57</td>
+<td></td>
+<td>73.57</td>
+<td>89.5</td>
+<td>85.25</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>72.67</td>
+<td>62.33</td>
+<td>73.67</td>
+<td>87.9</td>
+<td>80.32</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>67</td>
+<td>52.83</td>
+<td>72.17</td>
+<td>82.2</td>
+<td>72.21</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>55.6</td>
+<td>18.8</td>
+<td>62.9</td>
+<td></td>
+<td>78.7</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>42</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>84.62</td>
+</tr>
+</table>]

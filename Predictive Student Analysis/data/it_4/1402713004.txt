@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>10/18 </td>
+<td>55.56%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>14/20 </td>
+<td>70%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>15/25 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>5/5 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>54/78 </td>
+<td>69.23%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>7</td><td></td><td></td></tr><tr><td>NCS-801</td><td>A</td><td></td><td></td></tr><tr><td>NIT-801</td><td>6</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Ajit Kumar Yadav</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Ram Parwesh Yadav</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713004</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413006</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-02-02</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 9591</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7042820452</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>8174058296, 9621906738</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      c-3  Subhash complex kandwagate dlw .varanasi,. uttar pradesh                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          me.ajityadav@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>79.80</td>
+<th>12th %</th>
+<td>87.40</td>
+<th>B.TECH %</th>
+<td>55.42</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>26.67</td>
+<td>22.5</td>
+<td>16</td>
+<td>14.44</td>
+<td>18.7</td>
+<td>47.30</td>
+<td>64.06</td>
+</tr>
+<tr>
+<th>II</th>
+<td>26.67</td>
+<td>26.67</td>
+<td>DB</td>
+<td>54.44</td>
+<td>26.9</td>
+<td>55.20</td>
+<td>63.22</td>
+</tr>
+<tr>
+<th>III</th>
+<td>7.5</td>
+<td>15</td>
+<td>DB</td>
+<td>DB</td>
+<td>18.93</td>
+<td>53.8</td>
+<td>67.75</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>13.57</td>
+<td>29.17</td>
+<td>DB</td>
+<td></td>
+<td>6.93</td>
+<td>57.3</td>
+<td>65.92</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>PC</td>
+<td>20</td>
+<td>58</td>
+<td>66.89</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>DB</td>
+<td>23.5</td>
+<td>60.9</td>
+<td>62.67</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>DB</td>
+<td>17.5</td>
+<td></td>
+<td>62.88</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>69.23</td>
+</tr>
+</table>]

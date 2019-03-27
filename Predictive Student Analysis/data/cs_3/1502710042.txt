@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-063</th>
+<td>20/23 </td>
+<td>86.96%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-068</th>
+<td>14/15 </td>
+<td>93.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>27/29 </td>
+<td>93.1%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>19/25 </td>
+<td>76%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>28/31 </td>
+<td>90.32%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>6/8 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-654</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>13/16 </td>
+<td>81.25%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>161/181 </td>
+<td>88.95%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-063</td><td>11</td><td></td><td></td></tr><tr><td>NCS-068</td><td>11</td><td></td><td></td></tr><tr><td>NCS-601</td><td>8.5</td><td></td><td></td></tr><tr><td>NCS-602</td><td>14.5</td><td></td><td></td></tr><tr><td>NCS-603</td><td>12</td><td></td><td></td></tr><tr><td>NHU-601</td><td>13</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ASHDEEP TIWARI</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SURENDRA TIWARI</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502710042</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1510112</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-12-12</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 7606</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8765226205</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9454819120</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      333/1 PREM GUNG SIPRI BAZAR.JHANSI. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          ashdeeptiwari@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>85.17</td>
+<th>12th %</th>
+<td>84.20</td>
+<th>B.TECH %</th>
+<td>66.28</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>54.17</td>
+<td>50.83</td>
+<td>48.06</td>
+<td>38.06</td>
+<td>48.83</td>
+<td>64.50</td>
+<td>86.9</td>
+</tr>
+<tr>
+<th>II</th>
+<td>40.83</td>
+<td>35.67</td>
+<td>46.25</td>
+<td></td>
+<td>42.42</td>
+<td>73.60</td>
+<td>80.89</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>25.43</td>
+<td>26.86</td>
+<td>39.93</td>
+<td>63.5</td>
+<td>77.75</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>30.29</td>
+<td>34</td>
+<td>46.43</td>
+<td>64.5</td>
+<td>76.57</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>37.33</td>
+<td>30.83</td>
+<td>44.08</td>
+<td>65.30</td>
+<td>78.86</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>46.67</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>88.95</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

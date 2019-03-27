@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>24/29 </td>
+<td>82.76%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>21/28 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>17/21 </td>
+<td>80.95%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>20/27 </td>
+<td>74.07%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>4/6 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>22/26 </td>
+<td>84.62%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>19/21 </td>
+<td>90.48%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>151/192 </td>
+<td>78.65%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>12</td><td></td><td></td></tr><tr><td>RCS-401</td><td>A</td><td></td><td></td></tr><tr><td>RCS-402</td><td>A</td><td></td><td></td></tr><tr><td>RCS-403</td><td>A</td><td></td><td></td></tr><tr><td>REC-405</td><td>2</td><td></td><td></td></tr><tr><td>RVE-401</td><td>4.5</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Rohan Asthana</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Dr. Sheel Asthana</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710116</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610046</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-07-12</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE-7057</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7042085549</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9335984960</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      ED-13, E-Block, Rajajipuram,.Lucknow. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          rohan.asthana.359@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>84.40</td>
+<th>12th %</th>
+<td>93.50</td>
+<th>B.TECH %</th>
+<td>77.19</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>62</td>
+<td>70</td>
+<td>66.4</td>
+<td>62.6</td>
+<td>70</td>
+<td>81.00</td>
+<td>97.9</td>
+</tr>
+<tr>
+<th>II</th>
+<td>59</td>
+<td>50</td>
+<td>58</td>
+<td>51.8</td>
+<td>50.57</td>
+<td>78.56</td>
+<td>85.87</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>37.33</td>
+<td>56</td>
+<td>54.17</td>
+<td>72.00</td>
+<td>78.8</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>12.33</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>78.65</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

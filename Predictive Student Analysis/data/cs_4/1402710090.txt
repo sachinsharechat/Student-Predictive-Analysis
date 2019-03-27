@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>21/25 </td>
+<td>84%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>21/22 </td>
+<td>95.45%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>17/22 </td>
+<td>77.27%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>3/4 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>78/93 </td>
+<td>83.87%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>7</td><td></td><td></td></tr><tr><td>NCS-085</td><td>11</td><td></td><td></td></tr><tr><td>NCS-801</td><td>9</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>MOHIT  KUMAR</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Y KUMAR</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710090</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410006</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-04-05</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 6585</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9643560697</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9818432716</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      Plot No. 75 flat No. 201,Radha Krishna Akash Nagar.GHAZIABAD. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          MOHITKUMAR.5APR95@GMAIL.COM                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>76.00</td>
+<th>12th %</th>
+<td>67.40</td>
+<th>B.TECH %</th>
+<td>66.17</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>56</td>
+<td>47.5</td>
+<td>29.44</td>
+<td>24.44</td>
+<td>28.8</td>
+<td>62.50</td>
+<td>91.06</td>
+</tr>
+<tr>
+<th>II</th>
+<td>33.33</td>
+<td>33.33</td>
+<td>28.33</td>
+<td>67.78</td>
+<td>25</td>
+<td>60.40</td>
+<td>89.17</td>
+</tr>
+<tr>
+<th>III</th>
+<td>32.14</td>
+<td>34.17</td>
+<td>25</td>
+<td>30.56</td>
+<td>32.71</td>
+<td>61.60</td>
+<td>81.97</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>49.29</td>
+<td>35</td>
+<td>32.71</td>
+<td></td>
+<td>32.86</td>
+<td>71.20</td>
+<td>85.5</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>33</td>
+<td>31.67</td>
+<td>37.5</td>
+<td>66.80</td>
+<td>84.08</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>44</td>
+<td>36.5</td>
+<td>52.5</td>
+<td>69.7</td>
+<td>87.22</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>57.2</td>
+<td>36.4</td>
+<td>41.8</td>
+<td>71.00</td>
+<td>89.52</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>27</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>83.87</td>
+</tr>
+</table>]

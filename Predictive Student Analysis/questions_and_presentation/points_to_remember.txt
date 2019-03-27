@@ -1,0 +1,30 @@
+Problem Statement:
+Predictive Student Analysis
+This might include an in depth look at the psychometric and performance analysis of the students through online system that analyses the students’ data to identify students on the verge of dropping out of college and allowing college to take corrective measures to ensure students remain in college. All the students and teachers teaching the students would be required to fill online questionnaire at regular intervals (after every three months/twice in a semester) The analysis would also incorporate Teacher’s Feedback regarding individual student for complete profiling and based on the class/academic performance would predict what grade students will receive. The analysis would also match students with courses and specialisations they are most likely to do well in Post- Graduation.
+
+Problem Breakdown:
+1.	Grade Prediction and Performance Analysis
+2.	Identification of students on the verge of dropping out
+3.	Recommendations about courses and career	
+
+
+Problem we faced.
+1.	What methodology to opt?
+2.	What type of data to be collected?
+3.	How the data to be collected?
+4.	How did you choose your question? What is validity and source used for designing the questionnaire?
+5.	Why to include logical reasoning test?
+	Ans: In humanities we cant rely on reasoning test?
+
+Disadvantages of Aptitude Tests
+Aptitude tests can be quite costly to both develop and administer.
+The tests must be tailored to the various positions in the company.  Each job requires different skills and the tests must accurately reflect those needs.
+It is also important to recognize that the tests are time consuming to administer and, at the risk of being trite, time is money.
+One other extremely important thing to keep in mind is that the tests must be kept current and relevant.  Job descriptions and requirements change and the aptitude tests must change with a company’s evolving needs.
+Aptitude tests may make the job applicant quite apprehensive and stressed and the interviewer must take into account the affect such a reaction will have on the outcome.  It is generally thought that the job applicant should be advised in advance that they will be required to take an aptitude test.
+
+Issus with cognitive test with questionnaire:
+	1.	It is time consuming.
+	2. 	Students will take it as a test. They may feel stress. It tend to alter their responses.
+
+Solution include a cognitive test in the curriculum to check for the reasoning ability.

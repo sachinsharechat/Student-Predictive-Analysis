@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>19/29 </td>
+<td>65.52%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>18/28 </td>
+<td>64.29%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>13/21 </td>
+<td>61.9%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>22/27 </td>
+<td>81.48%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-405</th>
+<td>21/26 </td>
+<td>80.77%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>15/21 </td>
+<td>71.43%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>142/192 </td>
+<td>73.96%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>A</td><td></td><td></td></tr><tr><td>RCS-401</td><td>A</td><td></td><td></td></tr><tr><td>RCS-402</td><td>A</td><td></td><td></td></tr><tr><td>RCS-403</td><td>A</td><td></td><td></td></tr><tr><td>REC-405</td><td>A</td><td></td><td></td></tr><tr><td>RVE-401</td><td>A</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Sameer Chandra</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Lt sathish chandra</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602710120</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1610031</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-07-08</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 1254</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7275882175</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>8005445371</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      790, civil line  ..                   </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          coolsamir0077@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>91.20</td>
+<th>12th %</th>
+<td>83.80</td>
+<th>B.TECH %</th>
+<td>77.63</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>57</td>
+<td>71</td>
+<td>46.96</td>
+<td>63.2</td>
+<td>70.43</td>
+<td>83.11</td>
+<td>93.11</td>
+</tr>
+<tr>
+<th>II</th>
+<td>57</td>
+<td>50</td>
+<td>50.4</td>
+<td>45.4</td>
+<td>49.71</td>
+<td>72.67</td>
+<td>83.1</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>48.17</td>
+<td>57.62</td>
+<td>77.10</td>
+<td>73.88</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>73.96</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

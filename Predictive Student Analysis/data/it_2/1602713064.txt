@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>18/23 </td>
+<td>78.26%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>14/22 </td>
+<td>63.64%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>13/19 </td>
+<td>68.42%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>17/24 </td>
+<td>70.83%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>4/6 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-406</th>
+<td>11/23 </td>
+<td>47.83%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>12/19 </td>
+<td>63.16%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>113/164 </td>
+<td>68.9%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>DB</td><td></td><td></td></tr><tr><td>RCS-401</td><td>DB</td><td></td><td></td></tr><tr><td>RCS-402</td><td>DB</td><td></td><td></td></tr><tr><td>RCS-403</td><td>DB</td><td></td><td></td></tr><tr><td>REC-406</td><td>DB</td><td></td><td></td></tr><tr><td>RVE-401</td><td>DB</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Naimish Singh</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Arvind Pratap Singh</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602713064</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1613074</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-08-10</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>upsee</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7839455759</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9415748168</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      224/6 awas vikas colony unnao.unnao. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          Naimishsingh123@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>78.00</td>
+<th>12th %</th>
+<td>80.50</td>
+<th>B.TECH %</th>
+<td>67.39</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>42</td>
+<td>41</td>
+<td>37.2</td>
+<td>36.8</td>
+<td>43.14</td>
+<td>70.67</td>
+<td>83.43</td>
+</tr>
+<tr>
+<th>II</th>
+<td>38</td>
+<td>26</td>
+<td>35.2</td>
+<td>16.8</td>
+<td>34</td>
+<td>64.11</td>
+<td>77.22</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>12.5</td>
+<td>26.67</td>
+<td></td>
+<td>76.96</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>68.9</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-063</th>
+<td>17/23 </td>
+<td>73.91%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-068</th>
+<td>11/15 </td>
+<td>73.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>22/29 </td>
+<td>75.86%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>16/25 </td>
+<td>64%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>24/31 </td>
+<td>77.42%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-654</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>14/16 </td>
+<td>87.5%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>142/181 </td>
+<td>78.45%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-063</td><td>2.5</td><td></td><td></td></tr><tr><td>NCS-068</td><td>12.5</td><td></td><td></td></tr><tr><td>NCS-601</td><td>A</td><td></td><td></td></tr><tr><td>NCS-602</td><td>A</td><td></td><td></td></tr><tr><td>NCS-603</td><td>9.5</td><td></td><td></td></tr><tr><td>NHU-601</td><td>14.5</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ANKIT .</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SHEETAL YADAV</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502710024</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1510124</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1998-02-02</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8265850724</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9219858803</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      H.N.  1046  NEW SHRI NAGAR.HAPUR. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          yadavankit22y@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>83.00</td>
+<th>12th %</th>
+<td>88.80</td>
+<th>B.TECH %</th>
+<td>72.02</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>43.33</td>
+<td>61.67</td>
+<td>42.22</td>
+<td>47.56</td>
+<td>50.25</td>
+<td>70.90</td>
+<td>98.1</td>
+</tr>
+<tr>
+<th>II</th>
+<td>52.5</td>
+<td>65.5</td>
+<td>59.75</td>
+<td></td>
+<td>68.17</td>
+<td>82.40</td>
+<td>92.82</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>28.86</td>
+<td>44.57</td>
+<td>46.64</td>
+<td>69.4</td>
+<td>81.72</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>37.14</td>
+<td>39.86</td>
+<td>31.5</td>
+<td>67.8</td>
+<td>74.66</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>25.33</td>
+<td>40.5</td>
+<td>32</td>
+<td>69.60</td>
+<td>77.07</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>26</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>78.45</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

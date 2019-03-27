@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>11/16 </td>
+<td>68.75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>13/25 </td>
+<td>52%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>15/22 </td>
+<td>68.18%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>4/12 </td>
+<td>33.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>2/6 </td>
+<td>33.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>3/4 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>48/85 </td>
+<td>56.47%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>5</td><td></td><td></td></tr><tr><td>NCS-085</td><td>13</td><td></td><td></td></tr><tr><td>NCS-801</td><td>0</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>AKASH KUMAR</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>RAM GOPAL</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710008</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410103</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-03-11</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>JEE MAIN R</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7065172640</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>8445891174</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      MHO BAMANPURI  PURANPUR.PILIBHIT . UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          ak911183@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>78.00</td>
+<th>12th %</th>
+<td>88.60</td>
+<th>B.TECH %</th>
+<td>69.27</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>51.67</td>
+<td>43.33</td>
+<td>24.44</td>
+<td>25.56</td>
+<td>28.62</td>
+<td>61.10</td>
+<td>91.69</td>
+</tr>
+<tr>
+<th>II</th>
+<td>65</td>
+<td>65</td>
+<td>32.22</td>
+<td>64.44</td>
+<td>35.6</td>
+<td>65.60</td>
+<td>89.62</td>
+</tr>
+<tr>
+<th>III</th>
+<td>42.86</td>
+<td>58.57</td>
+<td>25.24</td>
+<td>51.19</td>
+<td>36.64</td>
+<td>63.10</td>
+<td>80.88</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>65.71</td>
+<td>39.29</td>
+<td>47.86</td>
+<td></td>
+<td>51.29</td>
+<td>77.40</td>
+<td>87.2</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>44.67</td>
+<td>41.83</td>
+<td>61</td>
+<td>72.60</td>
+<td>78.36</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>49</td>
+<td>40.5</td>
+<td>57.33</td>
+<td>76.6</td>
+<td>76.12</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>60.8</td>
+<td>24.8</td>
+<td>41.3</td>
+<td>68.50</td>
+<td>75.46</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>18</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>56.47</td>
+</tr>
+</table>]

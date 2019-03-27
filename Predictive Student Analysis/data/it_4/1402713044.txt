@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>13/18 </td>
+<td>72.22%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>10/20 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>16/25 </td>
+<td>64%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>4/5 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>51/78 </td>
+<td>65.38%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>DB</td><td></td><td></td></tr><tr><td>NCS-801</td><td>DB</td><td></td><td></td></tr><tr><td>NIT-801</td><td>DB</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ISHAN SONKER</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SANT RAM SONKER</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713044</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413071</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1994-07-18</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 7662</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8004953580,8960467965</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9621593591,8960467965</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      MIG 146  AVAS VIJKAS COLONY ANGOORI BAGH.FAIZABAD. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          rishiishan.1@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>66.50</td>
+<th>12th %</th>
+<td>62.40</td>
+<th>B.TECH %</th>
+<td>57.15</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>44</td>
+<td>21.67</td>
+<td>19.72</td>
+<td>19.72</td>
+<td>19.33</td>
+<td>53.20</td>
+<td>86.06</td>
+</tr>
+<tr>
+<th>II</th>
+<td>28.33</td>
+<td>28.33</td>
+<td>20.83</td>
+<td>77.78</td>
+<td>25</td>
+<td>59.70</td>
+<td>87.12</td>
+</tr>
+<tr>
+<th>III</th>
+<td>34.17</td>
+<td>45</td>
+<td>16.19</td>
+<td>23.81</td>
+<td>27.43</td>
+<td>59</td>
+<td>81.48</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>40.71</td>
+<td>53.33</td>
+<td>26.57</td>
+<td></td>
+<td>33.57</td>
+<td>56.3</td>
+<td>69.6</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>20.33</td>
+<td>25.17</td>
+<td>32.08</td>
+<td>55.4</td>
+<td>77.83</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>23.67</td>
+<td>14</td>
+<td>32.58</td>
+<td>59.3</td>
+<td>79.84</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>40.4</td>
+<td>DB</td>
+<td>26.1</td>
+<td></td>
+<td>72.22</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>65.38</td>
+</tr>
+</table>]

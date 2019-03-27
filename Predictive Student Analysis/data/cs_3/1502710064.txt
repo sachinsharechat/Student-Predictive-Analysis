@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-063</th>
+<td>25/29 </td>
+<td>86.21%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-068</th>
+<td>12/14 </td>
+<td>85.71%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>19/23 </td>
+<td>82.61%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>13/17 </td>
+<td>76.47%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>21/29 </td>
+<td>72.41%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>10/12 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-654</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>13/18 </td>
+<td>72.22%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>141/176 </td>
+<td>80.11%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-063</td><td>5</td><td></td><td></td></tr><tr><td>NCS-068</td><td>18.5</td><td></td><td></td></tr><tr><td>NCS-601</td><td>17</td><td></td><td></td></tr><tr><td>NCS-602</td><td>14</td><td></td><td></td></tr><tr><td>NCS-603</td><td>17.5</td><td></td><td></td></tr><tr><td>NHU-601</td><td>19</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>HEMANT KUMAR SHARMA</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>BRIJBIHARI SHARMA</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502710064</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1510024</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-06-30</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 2690</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9911256934</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9927436244</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      SANT NAGAR COLONY RADHAKUND ROAD  GOVERDHAN.MATHURA . U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          hunthemant009@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>95.00</td>
+<th>12th %</th>
+<td>92.80</td>
+<th>B.TECH %</th>
+<td>76.50</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>70.83</td>
+<td>78.33</td>
+<td>63.61</td>
+<td>70.33</td>
+<td>73.83</td>
+<td>76.60</td>
+<td>95.51</td>
+</tr>
+<tr>
+<th>II</th>
+<td>72.5</td>
+<td>73.67</td>
+<td>67.33</td>
+<td></td>
+<td>62.33</td>
+<td>83.40</td>
+<td>92.02</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>56</td>
+<td>43.86</td>
+<td>59.57</td>
+<td>78.5</td>
+<td>83.22</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>62.86</td>
+<td>52.29</td>
+<td>51.14</td>
+<td>74.4</td>
+<td>80.99</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>49</td>
+<td>37.33</td>
+<td>38.67</td>
+<td>69.60</td>
+<td>82.08</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>60.67</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>80.11</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

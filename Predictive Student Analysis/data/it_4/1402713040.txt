@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>12/18 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>14/20 </td>
+<td>70%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>14/25 </td>
+<td>56%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>5/5 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>53/78 </td>
+<td>67.95%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>DB</td><td></td><td></td></tr><tr><td>NCS-801</td><td>DB</td><td></td><td></td></tr><tr><td>NIT-801</td><td>DB</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>GAURAV DWIVEDI</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>HRIDAY NARAIN DWIVEDI</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713040</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413001</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-06-28</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 5203</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9818671702,7054666041</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>8756618154</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      41A 130 E Tilak Nagar Allahpur.ALLAHABAD .  U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          gauravhripra@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>81.70</td>
+<th>12th %</th>
+<td>72.00</td>
+<th>B.TECH %</th>
+<td>75.28</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>62.5</td>
+<td>71.67</td>
+<td>50.83</td>
+<td>53.33</td>
+<td>68.2</td>
+<td>79.80</td>
+<td>96.63</td>
+</tr>
+<tr>
+<th>II</th>
+<td>65.83</td>
+<td>65.83</td>
+<td>54.17</td>
+<td>51.67</td>
+<td>58.6</td>
+<td>79.90</td>
+<td>87.12</td>
+</tr>
+<tr>
+<th>III</th>
+<td>25.83</td>
+<td>37.86</td>
+<td>30.24</td>
+<td>38.1</td>
+<td>52.21</td>
+<td>73.7</td>
+<td>82.14</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>32.14</td>
+<td>16.67</td>
+<td>38.36</td>
+<td></td>
+<td>46.57</td>
+<td>71.9</td>
+<td>79.75</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>49.67</td>
+<td>39</td>
+<td>54.67</td>
+<td>74.6</td>
+<td>75.57</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>41.67</td>
+<td>20.67</td>
+<td>49.42</td>
+<td>71.8</td>
+<td>74.66</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>41.2</td>
+<td>20.8</td>
+<td>29.4</td>
+<td></td>
+<td>74.07</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>67.95</td>
+</tr>
+</table>]

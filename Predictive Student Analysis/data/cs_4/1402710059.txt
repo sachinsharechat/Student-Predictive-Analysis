@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>12/16 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>15/25 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>16/22 </td>
+<td>72.73%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>2/4 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>2/4 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>55/83 </td>
+<td>66.27%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>5.5</td><td></td><td></td></tr><tr><td>NCS-085</td><td>7</td><td></td><td></td></tr><tr><td>NCS-801</td><td>1</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>DIXANT SINGH</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SATYA PAL SINGH</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710059</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410066</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1994-05-07</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>40748</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8130203169</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9412855896</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      J/F-115 BHAGIRATHI KUNJ GANGANAGAR.MEERUT. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          dixantsingh07@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>87.6</td>
+<th>12th %</th>
+<td>70.6</td>
+<th>B.TECH %</th>
+<td>62.13</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>54.17</td>
+<td>42.5</td>
+<td>37.22</td>
+<td>23.33</td>
+<td>36.1</td>
+<td>56.20</td>
+<td>83.71</td>
+</tr>
+<tr>
+<th>II</th>
+<td>30</td>
+<td>30</td>
+<td>25.28</td>
+<td>39.44</td>
+<td>23.8</td>
+<td>55.00</td>
+<td>77.11</td>
+</tr>
+<tr>
+<th>III</th>
+<td>37.86</td>
+<td>37.5</td>
+<td>26.11</td>
+<td>32.14</td>
+<td>37.71</td>
+<td>60.60</td>
+<td>73.72</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>22.14</td>
+<td>28.57</td>
+<td>27.43</td>
+<td></td>
+<td>31.71</td>
+<td>65.90</td>
+<td>71.81</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>10</td>
+<td>24.08</td>
+<td>60.50</td>
+<td>69.53</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>34.67</td>
+<td>20.5</td>
+<td>38.33</td>
+<td>69.9</td>
+<td>71.88</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>21.4</td>
+<td>37.8</td>
+<td>66.80</td>
+<td>75</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>13.5</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>66.27</td>
+</tr>
+</table>]

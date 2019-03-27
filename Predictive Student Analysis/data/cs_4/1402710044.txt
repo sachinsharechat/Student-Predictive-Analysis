@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>9/16 </td>
+<td>56.25%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>17/25 </td>
+<td>68%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>11/22 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>2/4 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>0/4 </td>
+<td>0%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>47/83 </td>
+<td>56.63%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>10.5</td><td></td><td></td></tr><tr><td>NCS-085</td><td>A</td><td></td><td></td></tr><tr><td>NCS-801</td><td>5</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ATIN KUMAR SINGH</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>ARUN KUMAR SINGH</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710044</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410132</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-05-12</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9873022370</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>8376914437</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      STA-101,SUNTOWER APARTMENT SHIPRA SUN CITY INDIRAPURAM .GHAZIABAD. UP                   </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          atin9999io@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>83.60</td>
+<th>12th %</th>
+<td>83.00</td>
+<th>B.TECH %</th>
+<td>61.26</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>64.17</td>
+<td>52.5</td>
+<td>42.22</td>
+<td>38.89</td>
+<td>39.4</td>
+<td>59.20</td>
+<td>87.72</td>
+</tr>
+<tr>
+<th>II</th>
+<td>31.67</td>
+<td>31.67</td>
+<td>27.22</td>
+<td>60</td>
+<td>20.4</td>
+<td>57.10</td>
+<td>76.84</td>
+</tr>
+<tr>
+<th>III</th>
+<td>35.71</td>
+<td>33.57</td>
+<td>28.33</td>
+<td>39.29</td>
+<td>36</td>
+<td>62.30</td>
+<td>75.06</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>20</td>
+<td>40.71</td>
+<td>DB</td>
+<td></td>
+<td>29.29</td>
+<td>63.20</td>
+<td>70.36</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>17</td>
+<td>12.67</td>
+<td>29.17</td>
+<td>57.60</td>
+<td>67.72</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>26.67</td>
+<td>14.5</td>
+<td>34.33</td>
+<td>66.8</td>
+<td>65.91</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>24.2</td>
+<td>36.3</td>
+<td>62.60</td>
+<td>76.85</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>15.5</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>56.63</td>
+</tr>
+</table>]

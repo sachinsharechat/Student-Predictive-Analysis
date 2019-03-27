@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>16/18 </td>
+<td>88.89%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>14/20 </td>
+<td>70%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>24/25 </td>
+<td>96%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>5/5 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>67/78 </td>
+<td>85.9%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>10</td><td></td><td></td></tr><tr><td>NCS-801</td><td>0</td><td></td><td></td></tr><tr><td>NIT-801</td><td>10</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Naveen Rishishwar</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Virendra Rishishwar</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713062</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413106</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1998-07-14</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>Direct</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9412616493,9977010284</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9794846245</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      C-12, Sec-01 L.D.A. Colony Lucknow. Lucknow. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          naveenrishishwar@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>84.67</td>
+<th>12th %</th>
+<td>87.40</td>
+<th>B.TECH %</th>
+<td>67.90</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>42</td>
+<td>46.67</td>
+<td>31.94</td>
+<td>25.28</td>
+<td>44.2</td>
+<td>65.60</td>
+<td>93.75</td>
+</tr>
+<tr>
+<th>II</th>
+<td>50</td>
+<td>50</td>
+<td>36.39</td>
+<td>67.78</td>
+<td>39.3</td>
+<td>65.80</td>
+<td>86.85</td>
+</tr>
+<tr>
+<th>III</th>
+<td>41.67</td>
+<td>35.71</td>
+<td>10.71</td>
+<td>32.62</td>
+<td>37</td>
+<td>66.1</td>
+<td>73.86</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>35.71</td>
+<td>35.83</td>
+<td>42.79</td>
+<td></td>
+<td>43.43</td>
+<td>73.2</td>
+<td>82</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>42.33</td>
+<td>26.17</td>
+<td>49.5</td>
+<td>70.2</td>
+<td>80.32</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>35.83</td>
+<td>45</td>
+<td>66.5</td>
+<td>74.66</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>48.8</td>
+<td>32.4</td>
+<td>41.5</td>
+<td></td>
+<td>81.48</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>20</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>85.9</td>
+</tr>
+</table>]

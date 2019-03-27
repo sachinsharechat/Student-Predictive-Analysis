@@ -1,0 +1,214 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-402</th>
+<td>9/14 </td>
+<td>64.29%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCE-401</th>
+<td>13/19 </td>
+<td>68.42%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCE-402</th>
+<td>13/19 </td>
+<td>68.42%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCE-403</th>
+<td>13/20 </td>
+<td>65%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCE-452</th>
+<td>6/8 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCE-453</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCE-454</th>
+<td>6/8 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCE-455</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-405</th>
+<td>11/18 </td>
+<td>61.11%</td>
+</tr><tr style="background-color: #b7eda1"><th>ROE-043</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>ROE-044</th>
+<td>11/12 </td>
+<td>91.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>96/136 </td>
+<td>70.59%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-402</td><td>9</td><td></td><td></td></tr><tr><td>RCE-401</td><td>23</td><td></td><td></td></tr><tr><td>RCE-402</td><td>16</td><td></td><td></td></tr><tr><td>RCE-403</td><td>8</td><td></td><td></td></tr><tr><td>RCS-405</td><td>A</td><td></td><td></td></tr><tr><td>ROE-043</td><td></td><td></td><td></td></tr><tr><td>ROE-044</td><td>16</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Gaurav Singh</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Bind Pratap Singh</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602713037</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1613019</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CE-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-02-26</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9891621052</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9450811243</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      Gram P Kotiya Tehsil Bindki  Fatehpur.Rai Bareilly. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          gauravsingh2602@rediffmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>86</td>
+<th>12th %</th>
+<td>86</td>
+<th>B.TECH %</th>
+<td>86.22</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>60</td>
+<td>38</td>
+<td>70</td>
+<td>71.6</td>
+<td>65.14</td>
+<td>84.11</td>
+<td>82.29</td>
+</tr>
+<tr>
+<th>II</th>
+<td>58</td>
+<td>54</td>
+<td>75.2</td>
+<td>62</td>
+<td>74.14</td>
+<td>88.33</td>
+<td>78.27</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>27</td>
+<td>DB</td>
+<td>63.33</td>
+<td></td>
+<td>73.91</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>41.14</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>70.59</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

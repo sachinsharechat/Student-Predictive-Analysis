@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>15/18 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>16/20 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>19/25 </td>
+<td>76%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>6/10 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>3/5 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>59/78 </td>
+<td>75.64%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>DB</td><td></td><td></td></tr><tr><td>NCS-801</td><td>DB</td><td></td><td></td></tr><tr><td>NIT-801</td><td>DB</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Aman Singh</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Sunil Singh</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713012</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413008</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-12-30</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 3570</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9643368019</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>8979372320</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      306,Teachers colony moh.baksariya  Faridpur.Bareilly. Uttar Pradesh                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          singhaman.rmps05@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>85.50</td>
+<th>12th %</th>
+<td>87.40</td>
+<th>B.TECH %</th>
+<td>66.22</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>45</td>
+<td>42.5</td>
+<td>40.83</td>
+<td>40.56</td>
+<td>53.3</td>
+<td>70.70</td>
+<td>89.24</td>
+</tr>
+<tr>
+<th>II</th>
+<td>65</td>
+<td>65</td>
+<td>48</td>
+<td>58.33</td>
+<td>47.4</td>
+<td>69.80</td>
+<td>85.83</td>
+</tr>
+<tr>
+<th>III</th>
+<td>26</td>
+<td>44.29</td>
+<td>29.05</td>
+<td>33.81</td>
+<td>47.36</td>
+<td>69</td>
+<td>79.87</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>25</td>
+<td>11.67</td>
+<td>25.93</td>
+<td></td>
+<td>33.64</td>
+<td>63.7</td>
+<td>79.95</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>48.67</td>
+<td>18</td>
+<td>38.67</td>
+<td>64.5</td>
+<td>73.87</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>18.67</td>
+<td>37.5</td>
+<td>59.6</td>
+<td>72.48</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>12.4</td>
+<td>40.1</td>
+<td></td>
+<td>80.37</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>75.64</td>
+</tr>
+</table>]

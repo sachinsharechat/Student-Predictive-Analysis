@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>18/18 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>20/20 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>23/25 </td>
+<td>92%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>5/5 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>76/78 </td>
+<td>97.44%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>15</td><td></td><td></td></tr><tr><td>NCS-801</td><td>4</td><td></td><td></td></tr><tr><td>NIT-801</td><td>15</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>MANISH YADAV</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>RAMESH RUMAR YADAV</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713052</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413101</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-03-02</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>09799921210,7976582577</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>09468677029</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      VPO.-PUHANIA,TEH.-BUHANA JHUNJHUNU JHUNJHUNU.JHUNJHUNU. RAJASTHAN                   </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          Mky336061@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>77.00</td>
+<th>12th %</th>
+<td>71.60</td>
+<th>B.TECH %</th>
+<td>67.60</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>30.83</td>
+<td>45.83</td>
+<td>20.83</td>
+<td>33.89</td>
+<td>41.5</td>
+<td>65.10</td>
+<td>95.87</td>
+</tr>
+<tr>
+<th>II</th>
+<td>40</td>
+<td>40</td>
+<td>41.11</td>
+<td>52.22</td>
+<td>36.1</td>
+<td>58.90</td>
+<td>88.22</td>
+</tr>
+<tr>
+<th>III</th>
+<td>40</td>
+<td>43.57</td>
+<td>39.29</td>
+<td>37.22</td>
+<td>49.64</td>
+<td>72.3</td>
+<td>78.65</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>17.86</td>
+<td>40.83</td>
+<td>PC</td>
+<td></td>
+<td>42.21</td>
+<td>69.4</td>
+<td>81.5</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>39.67</td>
+<td>37.67</td>
+<td>43.75</td>
+<td>69.8</td>
+<td>83.94</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>41.33</td>
+<td>26.17</td>
+<td>43.08</td>
+<td>70.1</td>
+<td>88.01</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>27.2</td>
+<td>32.8</td>
+<td>47.5</td>
+<td></td>
+<td>89.81</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>34</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>97.44</td>
+</tr>
+</table>]

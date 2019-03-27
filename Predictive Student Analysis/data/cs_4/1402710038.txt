@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>12/16 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>14/25 </td>
+<td>56%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>19/22 </td>
+<td>86.36%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>6/12 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>1/4 </td>
+<td>25%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>2/4 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>54/83 </td>
+<td>65.06%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>6.5</td><td></td><td></td></tr><tr><td>NCS-085</td><td>11</td><td></td><td></td></tr><tr><td>NCS-801</td><td>12</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ARPIT BHATIYA</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>ASHOK KUMAR BHATIYA</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710038</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410108</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-09-03</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE4058</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9643724713</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>8960261839</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      193,GOPAL GUNJ  NEAR AKTI MANDIR ORAI  .JALAUN. UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          bhatiyaarpit95@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>91.20</td>
+<th>12th %</th>
+<td>74.20</td>
+<th>B.TECH %</th>
+<td>65.01</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>61.67</td>
+<td>55.83</td>
+<td>53.33</td>
+<td>23.89</td>
+<td>48.2</td>
+<td>69.00</td>
+<td>82.46</td>
+</tr>
+<tr>
+<th>II</th>
+<td>59</td>
+<td>59</td>
+<td>37.5</td>
+<td>54.44</td>
+<td>39.2</td>
+<td>66.00</td>
+<td>79.29</td>
+</tr>
+<tr>
+<th>III</th>
+<td>44.29</td>
+<td>59.29</td>
+<td>40</td>
+<td>50.71</td>
+<td>51.64</td>
+<td>67.50</td>
+<td>77.73</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>40.71</td>
+<td>35</td>
+<td>49.14</td>
+<td></td>
+<td>44.86</td>
+<td>71.00</td>
+<td>77.29</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>21.67</td>
+<td>6.33</td>
+<td>36.25</td>
+<td>62.70</td>
+<td>69.98</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>DB</td>
+<td>16.58</td>
+<td>56.6</td>
+<td>65.34</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>23.6</td>
+<td>DB</td>
+<td>42.5</td>
+<td>62.30</td>
+<td>70.06</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>29.5</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>65.06</td>
+</tr>
+</table>]

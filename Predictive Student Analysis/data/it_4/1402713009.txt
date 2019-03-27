@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>7/18 </td>
+<td>38.89%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>10/20 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>13/25 </td>
+<td>52%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>4/10 </td>
+<td>40%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>1/5 </td>
+<td>20%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>35/78 </td>
+<td>44.87%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>DB</td><td></td><td></td></tr><tr><td>NCS-801</td><td>DB</td><td></td><td></td></tr><tr><td>NIT-801</td><td>DB</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Akshat Mehrotra</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Manish Mehrotra</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713009</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413083</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-03-05</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>08860469084</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>09839713824</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      133 -A Vikas Nagar.Kanpur. Uttar Pradesh                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          akshat117@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>81.70</td>
+<th>12th %</th>
+<td>86.40</td>
+<th>B.TECH %</th>
+<td>62.40</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>56</td>
+<td>52.5</td>
+<td>45</td>
+<td>24.72</td>
+<td>48</td>
+<td>66.00</td>
+<td>94.35</td>
+</tr>
+<tr>
+<th>II</th>
+<td>36.67</td>
+<td>36.67</td>
+<td>DB</td>
+<td>78.89</td>
+<td>31.7</td>
+<td>62.60</td>
+<td>78.75</td>
+</tr>
+<tr>
+<th>III</th>
+<td>30</td>
+<td>30</td>
+<td>25.48</td>
+<td>12.62</td>
+<td>27.29</td>
+<td>64.2</td>
+<td>73.81</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>30</td>
+<td>25.83</td>
+<td>DB</td>
+<td></td>
+<td>25.07</td>
+<td>62.8</td>
+<td>70.37</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>21.33</td>
+<td>8.67</td>
+<td>11.17</td>
+<td>58.2</td>
+<td>69.14</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>0</td>
+<td>12.33</td>
+<td>60.6</td>
+<td>63.22</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>DB</td>
+<td>24.1</td>
+<td></td>
+<td>63.8</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>44.87</td>
+</tr>
+</table>]

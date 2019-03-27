@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>18/18 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>17/20 </td>
+<td>85%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>23/25 </td>
+<td>92%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>4/5 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>72/78 </td>
+<td>92.31%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>22</td><td></td><td></td></tr><tr><td>NCS-801</td><td>A</td><td></td><td></td></tr><tr><td>NIT-801</td><td>A</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>MD MUJAHID ANSARI</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>VAKIL ANSARI</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713055</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413105</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-08-20</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9889274470,7503365453</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9889274470</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      117, WARD NO. 14  AZAD NAGAR KASIA KUSHINAGAR.KUSHINAGAR. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          mujahid7851@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>69</td>
+<th>12th %</th>
+<td>79.99</td>
+<th>B.TECH %</th>
+<td>72.28</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>35.83</td>
+<td>47.5</td>
+<td>24.17</td>
+<td>22.5</td>
+<td>40.1</td>
+<td>61.70</td>
+<td>96.88</td>
+</tr>
+<tr>
+<th>II</th>
+<td>55.83</td>
+<td>55.83</td>
+<td>35</td>
+<td>80</td>
+<td>50.6</td>
+<td>76.20</td>
+<td>99.18</td>
+</tr>
+<tr>
+<th>III</th>
+<td>36.43</td>
+<td>46.43</td>
+<td>39.05</td>
+<td>47.62</td>
+<td>56.5</td>
+<td>76.8</td>
+<td>94.12</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>54.29</td>
+<td>60</td>
+<td>66.43</td>
+<td></td>
+<td>60.21</td>
+<td>78.2</td>
+<td>94.75</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>36.67</td>
+<td>37.33</td>
+<td>50.33</td>
+<td>69.5</td>
+<td>85.07</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>37.67</td>
+<td>33.83</td>
+<td>64.08</td>
+<td>71.3</td>
+<td>93.73</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>49.6</td>
+<td>46.6</td>
+<td>56.6</td>
+<td></td>
+<td>87.04</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>22</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>92.31</td>
+</tr>
+</table>]

@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>13/16 </td>
+<td>81.25%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>16/25 </td>
+<td>64%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>20/22 </td>
+<td>90.91%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>4/6 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>1/4 </td>
+<td>25%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>62/85 </td>
+<td>72.94%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>20</td><td></td><td></td></tr><tr><td>NCS-085</td><td>22</td><td></td><td></td></tr><tr><td>NCS-801</td><td>18</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ANCHAL GARG</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>RAJESH KUMAR GUPTA</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710018</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410119</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-07-29</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9999605793</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9811523999</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      SB-187 SHASTRI  NAGAR.GHAZIABAD. UTTAR PRADESH                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          anchalgarg78@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>95.00</td>
+<th>12th %</th>
+<td>95.40</td>
+<th>B.TECH %</th>
+<td>88.09</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>78.33</td>
+<td>75.83</td>
+<td>70.28</td>
+<td>65.83</td>
+<td>86.3</td>
+<td>84.80</td>
+<td>95.96</td>
+</tr>
+<tr>
+<th>II</th>
+<td>75</td>
+<td>75</td>
+<td>74.44</td>
+<td>65.56</td>
+<td>83.8</td>
+<td>87.80</td>
+<td>90.98</td>
+</tr>
+<tr>
+<th>III</th>
+<td>67.86</td>
+<td>62.14</td>
+<td>80.71</td>
+<td>82.38</td>
+<td>81.57</td>
+<td>91.00</td>
+<td>88.13</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>77.86</td>
+<td>65</td>
+<td>83.79</td>
+<td></td>
+<td>81.93</td>
+<td>92.70</td>
+<td>93.06</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>80.33</td>
+<td>73.33</td>
+<td>75.5</td>
+<td>84.50</td>
+<td>85.42</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>81.33</td>
+<td>80.17</td>
+<td>84</td>
+<td>88.2</td>
+<td>81.18</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>89.2</td>
+<td>75.4</td>
+<td>77.3</td>
+<td>87.60</td>
+<td>87.12</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>60</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>72.94</td>
+</tr>
+</table>]

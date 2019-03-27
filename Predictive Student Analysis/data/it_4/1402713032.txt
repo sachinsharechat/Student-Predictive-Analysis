@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>18/18 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>17/20 </td>
+<td>85%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>22/25 </td>
+<td>88%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>5/5 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>72/78 </td>
+<td>92.31%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>21</td><td></td><td></td></tr><tr><td>NCS-801</td><td>15</td><td></td><td></td></tr><tr><td>NIT-801</td><td>A</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Charu Bhardwaj</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>Pankaj Kumar Bhardwaj</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713032</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413092</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-09-01</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8010315864</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9899040610</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      R-11/74  sector 11 Rajnagar.Ghaziabad,. Uttar Pradesh                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          charubhardwaj96@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>93.10</td>
+<th>12th %</th>
+<td>93.40</td>
+<th>B.TECH %</th>
+<td>82.42</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>70</td>
+<td>80.83</td>
+<td>60.83</td>
+<td>60.28</td>
+<td>71.5</td>
+<td>77.60</td>
+<td>88.94</td>
+</tr>
+<tr>
+<th>II</th>
+<td>35.83</td>
+<td>43</td>
+<td>67.5</td>
+<td>60</td>
+<td>64</td>
+<td>84.70</td>
+<td>84.47</td>
+</tr>
+<tr>
+<th>III</th>
+<td>50</td>
+<td>55</td>
+<td>70.48</td>
+<td>75</td>
+<td>74.71</td>
+<td>84.3</td>
+<td>85.5</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>53.57</td>
+<td>60</td>
+<td>76.21</td>
+<td></td>
+<td>72.79</td>
+<td>83.6</td>
+<td>86.42</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>79.33</td>
+<td>66.83</td>
+<td>72.5</td>
+<td>80.8</td>
+<td>85.2</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>71.33</td>
+<td>65.67</td>
+<td>75.17</td>
+<td>83.5</td>
+<td>82.29</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>85.6</td>
+<td>72</td>
+<td>71.5</td>
+<td></td>
+<td>86.81</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>36</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>92.31</td>
+</tr>
+</table>]

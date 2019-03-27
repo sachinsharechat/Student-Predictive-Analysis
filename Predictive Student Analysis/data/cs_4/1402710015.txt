@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>9/16 </td>
+<td>56.25%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>11/25 </td>
+<td>44%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>14/22 </td>
+<td>63.64%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>8/12 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>4/6 </td>
+<td>66.67%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>2/4 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>48/85 </td>
+<td>56.47%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>A</td><td></td><td></td></tr><tr><td>NCS-085</td><td>A</td><td></td><td></td></tr><tr><td>NCS-801</td><td>A</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>AMANDEEP SINGH</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SATISH CHANDRA</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710015</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413085</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-09-16</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8506890717</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9810135878</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      SEC-2 HOUSE NO.-415 CHIRANJEEV VIHAR.GHAZIABAD. U.P                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          amandeepsingh00718@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>75</td>
+<th>12th %</th>
+<td>93.6</td>
+<th>B.TECH %</th>
+<td>83.70</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>70.83</td>
+<td>72.5</td>
+<td>53.61</td>
+<td>58.06</td>
+<td>72</td>
+<td>82.20</td>
+<td>86.2</td>
+</tr>
+<tr>
+<th>II</th>
+<td>70</td>
+<td>70</td>
+<td>61.67</td>
+<td>51.11</td>
+<td>60</td>
+<td>79.90</td>
+<td>82.24</td>
+</tr>
+<tr>
+<th>III</th>
+<td>61.43</td>
+<td>14.29</td>
+<td>57.86</td>
+<td>68.57</td>
+<td>69.64</td>
+<td>79.60</td>
+<td>78.68</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>68.57</td>
+<td>67.86</td>
+<td>65.79</td>
+<td></td>
+<td>68.79</td>
+<td>86.60</td>
+<td>86.36</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>62</td>
+<td>56.33</td>
+<td>79.33</td>
+<td>85.10</td>
+<td>82</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>65</td>
+<td>61.33</td>
+<td>83.83</td>
+<td>92.6</td>
+<td>83.15</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>44.4</td>
+<td>DB</td>
+<td>85.5</td>
+<td>79.90</td>
+<td>81.29</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>56.47</td>
+</tr>
+</table>]

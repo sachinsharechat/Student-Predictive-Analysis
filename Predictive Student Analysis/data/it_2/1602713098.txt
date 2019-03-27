@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>RAS-401</th>
+<td>21/23 </td>
+<td>91.3%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-401</th>
+<td>20/22 </td>
+<td>90.91%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-402</th>
+<td>17/19 </td>
+<td>89.47%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-403</th>
+<td>21/24 </td>
+<td>87.5%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-451</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-452</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-453</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>RCS-454</th>
+<td>6/6 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>REC-406</th>
+<td>19/23 </td>
+<td>82.61%</td>
+</tr><tr style="background-color: #b7eda1"><th>RVE-401</th>
+<td>18/19 </td>
+<td>94.74%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>150/164 </td>
+<td>91.46%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>RAS-401</td><td>12</td><td></td><td></td></tr><tr><td>RCS-401</td><td>19.5</td><td></td><td></td></tr><tr><td>RCS-402</td><td>18.5</td><td></td><td></td></tr><tr><td>RCS-403</td><td>19</td><td></td><td></td></tr><tr><td>REC-406</td><td>15</td><td></td><td></td></tr><tr><td>RVE-401</td><td>20</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>Shivangi Tripathi</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>shashikant tripathi</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1602713098</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1613110</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2016-20</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>4</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-12-03</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>upsee</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>7838804987</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9899093859</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      C20 MIG Officers colony Lohiya nagar.Ghaziabad. U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          littleshivangi03@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>95</td>
+<th>12th %</th>
+<td>85</td>
+<th>B.TECH %</th>
+<td>75.06</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>57</td>
+<td>68</td>
+<td>56</td>
+<td>55.6</td>
+<td>62.29</td>
+<td>75.78</td>
+<td>93.51</td>
+</tr>
+<tr>
+<th>II</th>
+<td>2</td>
+<td>60</td>
+<td>DB</td>
+<td>12.8</td>
+<td>51.71</td>
+<td>74.33</td>
+<td>73.63</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>53.33</td>
+<td>72.86</td>
+<td></td>
+<td>86.15</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>69.33</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>91.46</td>
+</tr>
+<tr>
+<th>V</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VI</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

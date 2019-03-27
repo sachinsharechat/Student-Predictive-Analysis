@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>17/18 </td>
+<td>94.44%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>17/20 </td>
+<td>85%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>0/0 </td>
+<td>%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-801</th>
+<td>21/25 </td>
+<td>84%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-851</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>4/5 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>67/78 </td>
+<td>85.9%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-085</td><td>16</td><td></td><td></td></tr><tr><td>NCS-801</td><td>3</td><td></td><td></td></tr><tr><td>NIT-801</td><td>10</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>MOHNISH MUKUL</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SUGAM PRASAD</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402713060</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1413067</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1996-09-26</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 6188</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>8447417985,9999536413</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9999536413</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      G-704,ADITYA MEGA CITY,VAIBHAV KHAND INDIRAPURAM GHAZIABAD.GHAZIABAD. UP                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          mukulmohnish@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>68.40</td>
+<th>12th %</th>
+<td>72.80</td>
+<th>B.TECH %</th>
+<td>63.08</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>42</td>
+<td>25</td>
+<td>29</td>
+<td>19.72</td>
+<td>25.1</td>
+<td>53.70</td>
+<td>80.77</td>
+</tr>
+<tr>
+<th>II</th>
+<td>32.5</td>
+<td>32.5</td>
+<td>21.94</td>
+<td>42.78</td>
+<td>18.1</td>
+<td>60.00</td>
+<td>75.89</td>
+</tr>
+<tr>
+<th>III</th>
+<td>48</td>
+<td>42.14</td>
+<td>29.52</td>
+<td>32.86</td>
+<td>37.5</td>
+<td>69.5</td>
+<td>77.78</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>38.57</td>
+<td>38.33</td>
+<td>24.14</td>
+<td></td>
+<td>39.07</td>
+<td>66.9</td>
+<td>86.43</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>42</td>
+<td>27.33</td>
+<td>41.67</td>
+<td>63.3</td>
+<td>82.13</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>25.67</td>
+<td>26.83</td>
+<td>41.67</td>
+<td>65.1</td>
+<td>80.11</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>38.8</td>
+<td>23.8</td>
+<td>43.7</td>
+<td></td>
+<td>82.72</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>29</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>85.9</td>
+</tr>
+</table>]

@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>8/16 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>14/25 </td>
+<td>56%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>16/22 </td>
+<td>72.73%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>6/12 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>1/4 </td>
+<td>25%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>3/4 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>48/83 </td>
+<td>57.83%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>11</td><td></td><td></td></tr><tr><td>NCS-085</td><td>8</td><td></td><td></td></tr><tr><td>NCS-801</td><td>4</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>DHANANJAY KUMAR KUSHWAHA</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>SURENDRA KUMAR</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710049</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410111</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1995-12-17</td>
+<td></td>
+<th>CATEGORY</th>
+<td>OBC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE 9136</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9450534429</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9532490623</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      VILL-BINDWALLIYA, POST-KAITWALLIYA GHAZIPUR .GHAZIPUR . UTTAR PRADESH                   </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          DK35840@GMAIL.COM                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>87.4</td>
+<th>12th %</th>
+<td>81.8</td>
+<th>B.TECH %</th>
+<td>64.76</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>59.17</td>
+<td>46.67</td>
+<td>44.44</td>
+<td>37.22</td>
+<td>38.4</td>
+<td>64.10</td>
+<td>91.71</td>
+</tr>
+<tr>
+<th>II</th>
+<td>50.83</td>
+<td>50.83</td>
+<td>30.28</td>
+<td>63.33</td>
+<td>36.8</td>
+<td>61.60</td>
+<td>86.1</td>
+</tr>
+<tr>
+<th>III</th>
+<td>33.57</td>
+<td>29</td>
+<td>29.17</td>
+<td>21.9</td>
+<td>30.43</td>
+<td>62.10</td>
+<td>80.18</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>35.71</td>
+<td>27.14</td>
+<td>36.5</td>
+<td></td>
+<td>49</td>
+<td>66.60</td>
+<td>80.34</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>23.67</td>
+<td>28.83</td>
+<td>40.5</td>
+<td>63.10</td>
+<td>77.43</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>25.33</td>
+<td>40.75</td>
+<td>75.1</td>
+<td>76.99</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>26</td>
+<td>37.3</td>
+<td>60.70</td>
+<td>79.63</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>23</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>57.83</td>
+</tr>
+</table>]

@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-063</th>
+<td>17/23 </td>
+<td>73.91%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-068</th>
+<td>14/15 </td>
+<td>93.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>25/29 </td>
+<td>86.21%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>19/25 </td>
+<td>76%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>29/31 </td>
+<td>93.55%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>4/8 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>12/12 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-654</th>
+<td>6/12 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>14/16 </td>
+<td>87.5%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>150/181 </td>
+<td>82.87%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-063</td><td>3</td><td></td><td></td></tr><tr><td>NCS-068</td><td>13.5</td><td></td><td></td></tr><tr><td>NCS-601</td><td>7</td><td></td><td></td></tr><tr><td>NCS-602</td><td>14</td><td></td><td></td></tr><tr><td>NCS-603</td><td>6</td><td></td><td></td></tr><tr><td>NHU-601</td><td>15.5</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>AKASH BHASKER</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>DHYAN CHANDRA BHASKER</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502710013</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1510076</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-02-13</td>
+<td></td>
+<th>CATEGORY</th>
+<td>SC</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>UPSEE- 207</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9650015301</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9213652778</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      H.No - 413 SECTOR -2 CHIRANJEEV VIHAR.GHAZIABAD . U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          ak007aakash@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>76.00</td>
+<th>12th %</th>
+<td>81.00</td>
+<th>B.TECH %</th>
+<td>66.46</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>42</td>
+<td>39</td>
+<td>33.06</td>
+<td>25.22</td>
+<td>32.25</td>
+<td>58.50</td>
+<td>78.03</td>
+</tr>
+<tr>
+<th>II</th>
+<td>18.67</td>
+<td>25.33</td>
+<td>14</td>
+<td></td>
+<td>20.5</td>
+<td>58.10</td>
+<td>76.98</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>31.71</td>
+<td>37.57</td>
+<td>40.86</td>
+<td>69.8</td>
+<td>80.14</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>41.43</td>
+<td>52.29</td>
+<td>46.21</td>
+<td>70.9</td>
+<td>74.39</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>36.67</td>
+<td>39.83</td>
+<td>53.83</td>
+<td>75.00</td>
+<td>79.83</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>39.33</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>82.87</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]

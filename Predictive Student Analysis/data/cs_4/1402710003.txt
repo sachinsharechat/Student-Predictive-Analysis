@@ -1,0 +1,199 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-080</th>
+<td>12/16 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-085</th>
+<td>18/25 </td>
+<td>72%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-801</th>
+<td>19/22 </td>
+<td>86.36%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-851</th>
+<td>6/12 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-852</th>
+<td>5/6 </td>
+<td>83.33%</td>
+</tr><tr style="background-color: #b7eda1"><th>NOE-081</th>
+<td>2/4 </td>
+<td>50%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>62/85 </td>
+<td>72.94%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-080</td><td>16</td><td></td><td></td></tr><tr><td>NCS-085</td><td>21</td><td></td><td></td></tr><tr><td>NCS-801</td><td>25</td><td></td><td></td></tr><tr><td>NOE-081</td><td></td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>ABHINAV GARG</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>PRAVEEN GARG</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1402710003</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1410114</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>CSE</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2014-18</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>CS-1</td>
+<td></td>
+<th>SEMESTER</th>
+<td>8</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1997-02-20</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>NO</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>DIRECT</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9958699741</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9312177291</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      118-A234 SHIV APPARTMENT F-6  BEHIND JEEVAN JYOTI HOSPITAL  GTB CHOWK .DILSHAD GARDEN. DELHI                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          abhinavgarg.garg70@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>81.70</td>
+<th>12th %</th>
+<td>91.20</td>
+<th>B.TECH %</th>
+<td>82.89</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>72.5</td>
+<td>66.67</td>
+<td>61.39</td>
+<td>59.44</td>
+<td>75.5</td>
+<td>77.60</td>
+<td>97.48</td>
+</tr>
+<tr>
+<th>II</th>
+<td>85</td>
+<td>85</td>
+<td>69.17</td>
+<td>76.67</td>
+<td>76.6</td>
+<td>85.50</td>
+<td>97.27</td>
+</tr>
+<tr>
+<th>III</th>
+<td>67.86</td>
+<td>87.14</td>
+<td>69.76</td>
+<td>77.38</td>
+<td>83.43</td>
+<td>86.90</td>
+<td>94.29</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>65.71</td>
+<td>67.86</td>
+<td>78.29</td>
+<td></td>
+<td>77.36</td>
+<td>87.40</td>
+<td>95.22</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>DB</td>
+<td>68.67</td>
+<td>73.17</td>
+<td>76.60</td>
+<td>83.37</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>68</td>
+<td>75.17</td>
+<td>83.33</td>
+<td>85.4</td>
+<td>86.52</td>
+</tr>
+<tr>
+<th>VII</th>
+<td>0</td>
+<td>0</td>
+<td>76.8</td>
+<td>58</td>
+<td>84.8</td>
+<td>80.80</td>
+<td>88.04</td>
+</tr>
+<tr>
+<th>VIII</th>
+<td>0</td>
+<td>0</td>
+<td>62</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>72.94</td>
+</tr>
+</table>]

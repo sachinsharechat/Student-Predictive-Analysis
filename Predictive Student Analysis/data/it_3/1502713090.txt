@@ -1,0 +1,211 @@
+[<table class="striped centered">
+<tr class="active green">
+<th>Subject</th>
+<th>Attendance</th>
+<th>Percentage</th>
+</tr>
+<tr style="background-color: #b7eda1"><th>NCS-601</th>
+<td>17/24 </td>
+<td>70.83%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-602</th>
+<td>12/20 </td>
+<td>60%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-603</th>
+<td>17/25 </td>
+<td>68%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-651</th>
+<td>8/10 </td>
+<td>80%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-652</th>
+<td>8/8 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>NCS-653</th>
+<td>6/8 </td>
+<td>75%</td>
+</tr><tr style="background-color: #b7eda1"><th>NHU-601</th>
+<td>12/17 </td>
+<td>70.59%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-064</th>
+<td>8/13 </td>
+<td>61.54%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-067</th>
+<td>13/16 </td>
+<td>81.25%</td>
+</tr><tr style="background-color: #b7eda1"><th>NIT-654</th>
+<td>10/10 </td>
+<td>100%</td>
+</tr><tr style="background-color: #b7eda1"><th>TOTAL</th>
+<td>111/151 </td>
+<td>73.51%</td>
+</tr> </table>, <table class="striped centered">
+<tr>
+<th>Subjects</th>
+<th>ST - 1</th>
+<th>ST - 2</th>
+<th>PUT</th>
+</tr>
+<tr><td>NCS-601</td><td>5</td><td></td><td></td></tr><tr><td>NCS-602</td><td>14.5</td><td></td><td></td></tr><tr><td>NCS-603</td><td>A</td><td></td><td></td></tr><tr><td>NHU-601</td><td>12</td><td></td><td></td></tr><tr><td>NIT-064</td><td>15.5</td><td></td><td></td></tr><tr><td>NIT-067</td><td>9</td><td></td><td></td></tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Name</th>
+<td>SHAURYA  PARASHAR</td>
+<td></td>
+<th>FATHER'S NAME:</th>
+<td>PRABHAT SHARMA</td>
+</tr>
+<tr>
+<th>ROLL NO.</th>
+<td>1502713090</td>
+<td></td>
+<th>STUDENT NO.</th>
+<td>1513051</td>
+</tr>
+<tr>
+<th>BRANCH</th>
+<td>IT</td>
+<td></td>
+<th>BATCH YEAR</th>
+<td>2015-19</td>
+</tr>
+<tr>
+<th>SECTION</th>
+<td>IT-2</td>
+<td></td>
+<th>SEMESTER</th>
+<td>6</td>
+</tr>
+<tr>
+<th>DOB</th>
+<td>1998-01-01</td>
+<td></td>
+<th>CATEGORY</th>
+<td>GENERAL</td>
+</tr>
+<tr>
+<th>HOSTLER</th>
+<td>YES</td>
+<td></td>
+<th>ENTRANCE EXAM RANK</th>
+<td>JEE MAINS </td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>Contact No.</th>
+<td>9149023920</td>
+<th>PARENT'S CONTACT NO.</th>
+<td>9412768008, 9068189406</td>
+</tr>
+<tr>
+<th>PERMANENT ADDRESS</th>
+<td><div class="col offset-m1 s10">
+                      D-23/1 NARORA ATOMIC POWER STATION NARORA BULANDSHAHAR.BULANDSHAHAR.  U.P.                  </div></td>
+<th>EMAIL ID</th>
+<td>
+<div class="col s10">
+                          badshahshaurya@gmail.com                      </div>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>10nth %</th>
+<td>91.20</td>
+<th>12th %</th>
+<td>93.20</td>
+<th>B.TECH %</th>
+<td>75.50</td>
+</tr>
+<tr><td>
+</td>
+</tr>
+</table>, <table class="striped centered">
+<tr>
+<th>SEM</th>
+<th>CT-I %</th>
+<th>CT-II %</th>
+<th>ST-I %</th>
+<th>ST-II %</th>
+<th>PUT %</th>
+<th>FINAL MARKS %</th>
+<th>ATTENDANCE %</th>
+</tr>
+<tr>
+<th>I</th>
+<td>65.83</td>
+<td>73.33</td>
+<td>66.67</td>
+<td>61.89</td>
+<td>59.58</td>
+<td>79.80</td>
+<td>97.57</td>
+</tr>
+<tr>
+<th>II</th>
+<td>43.33</td>
+<td>33.33</td>
+<td>48.58</td>
+<td></td>
+<td>47.42</td>
+<td></td>
+<td>86.15</td>
+</tr>
+<tr>
+<th>III</th>
+<td>0</td>
+<td>0</td>
+<td>63.43</td>
+<td>55.29</td>
+<td>51.43</td>
+<td>76.2</td>
+<td>92.05</td>
+</tr>
+<tr>
+<th>IV</th>
+<td>0</td>
+<td>0</td>
+<td>48.86</td>
+<td>47.14</td>
+<td>59.79</td>
+<td>70.5</td>
+<td>90.32</td>
+</tr>
+<tr>
+<th>V</th>
+<td>0</td>
+<td>0</td>
+<td>50</td>
+<td>51.67</td>
+<td>51.33</td>
+<td></td>
+<td>77.4</td>
+</tr>
+<tr>
+<th>VI</th>
+<td>0</td>
+<td>0</td>
+<td>37.33</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td>73.51</td>
+</tr>
+<tr>
+<th>VII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>VIII</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>]
